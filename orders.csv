@@ -1,0 +1,3001 @@
+order_id,customer_id,order_date,order_status,payment_method
+1,134,2024-10-18,Delivered,UPI
+2,570,2024-08-23,Delivered,Credit Card
+3,62,2025-05-09,Delivered,Net Banking
+4,601,2025-03-15,Delivered,Net Banking
+5,980,2025-04-14,Pending,Credit Card
+6,576,2025-06-07,Cancelled,Net Banking
+7,576,2025-01-05,Delivered,UPI
+8,338,2025-03-16,Delivered,UPI
+9,687,2025-01-23,Returned,Net Banking
+10,126,2024-12-02,Pending,UPI
+11,421,2024-11-13,Returned,Net Banking
+12,363,2024-12-11,Returned,Cash on Delivery
+13,895,2024-07-30,Returned,UPI
+14,682,2025-02-15,Delivered,Net Banking
+15,964,2024-10-03,Cancelled,UPI
+16,769,2025-06-05,Pending,Cash on Delivery
+17,434,2024-08-19,Delivered,Cash on Delivery
+18,889,2024-11-03,Pending,UPI
+19,938,2025-06-21,Delivered,Cash on Delivery
+20,739,2024-11-13,Cancelled,UPI
+21,53,2025-03-04,Cancelled,Credit Card
+22,992,2024-12-25,Pending,Credit Card
+23,295,2024-12-19,Returned,Cash on Delivery
+24,615,2025-04-15,Delivered,UPI
+25,320,2025-01-22,Pending,Credit Card
+26,361,2025-05-27,Returned,Net Banking
+27,107,2025-03-18,Cancelled,Net Banking
+28,592,2024-08-29,Delivered,Net Banking
+29,520,2025-06-07,Cancelled,UPI
+30,218,2024-07-13,Delivered,Cash on Delivery
+31,159,2024-11-07,Returned,UPI
+32,673,2025-01-09,Delivered,Cash on Delivery
+33,494,2025-06-18,Returned,UPI
+34,230,2025-05-26,Delivered,UPI
+35,868,2025-02-24,Pending,UPI
+36,111,2024-08-22,Cancelled,Credit Card
+37,359,2025-02-14,Delivered,Net Banking
+38,866,2024-11-06,Delivered,Net Banking
+39,570,2025-01-22,Cancelled,UPI
+40,377,2025-02-27,Delivered,Net Banking
+41,118,2025-05-16,Cancelled,Net Banking
+42,781,2025-04-12,Returned,Cash on Delivery
+43,286,2024-08-27,Pending,Credit Card
+44,588,2025-05-23,Pending,Net Banking
+45,232,2025-05-03,Cancelled,UPI
+46,827,2025-02-04,Pending,UPI
+47,440,2024-08-20,Cancelled,Cash on Delivery
+48,866,2025-05-10,Pending,Net Banking
+49,575,2025-04-30,Delivered,UPI
+50,998,2024-09-14,Delivered,UPI
+51,786,2025-05-13,Pending,Credit Card
+52,839,2025-03-23,Returned,Net Banking
+53,637,2024-11-27,Pending,Credit Card
+54,629,2024-07-28,Delivered,Credit Card
+55,692,2025-05-12,Pending,Net Banking
+56,659,2024-12-06,Delivered,Credit Card
+57,571,2025-06-04,Returned,Net Banking
+58,27,2024-08-09,Returned,Net Banking
+59,624,2025-01-07,Pending,Net Banking
+60,952,2025-01-24,Delivered,Credit Card
+61,674,2024-07-13,Returned,Net Banking
+62,850,2025-01-14,Cancelled,Net Banking
+63,711,2024-08-06,Pending,UPI
+64,274,2025-02-05,Cancelled,Credit Card
+65,30,2024-06-28,Pending,Credit Card
+66,185,2024-10-03,Delivered,Net Banking
+67,280,2025-06-24,Delivered,UPI
+68,720,2025-01-26,Cancelled,UPI
+69,781,2025-03-12,Delivered,Cash on Delivery
+70,317,2025-06-27,Delivered,Cash on Delivery
+71,944,2024-08-29,Delivered,UPI
+72,348,2025-04-10,Cancelled,Credit Card
+73,360,2024-09-23,Delivered,Credit Card
+74,7,2025-03-19,Returned,Net Banking
+75,186,2025-03-29,Pending,Cash on Delivery
+76,891,2025-04-28,Returned,UPI
+77,147,2024-11-04,Cancelled,Net Banking
+78,580,2025-01-02,Cancelled,Credit Card
+79,674,2024-08-11,Delivered,Net Banking
+80,411,2024-10-31,Returned,Net Banking
+81,72,2025-04-07,Cancelled,UPI
+82,146,2025-05-17,Pending,Net Banking
+83,759,2025-05-02,Cancelled,UPI
+84,649,2024-11-18,Returned,Cash on Delivery
+85,996,2025-01-25,Pending,Net Banking
+86,32,2025-06-25,Pending,Credit Card
+87,94,2024-11-27,Delivered,Credit Card
+88,765,2025-01-16,Pending,Net Banking
+89,544,2025-03-09,Delivered,Cash on Delivery
+90,221,2025-05-11,Delivered,Credit Card
+91,386,2024-11-26,Cancelled,Cash on Delivery
+92,430,2024-09-20,Cancelled,Net Banking
+93,465,2025-02-06,Delivered,Cash on Delivery
+94,350,2024-11-10,Returned,UPI
+95,162,2025-04-14,Delivered,Credit Card
+96,379,2024-12-02,Returned,Cash on Delivery
+97,320,2025-03-21,Pending,Credit Card
+98,739,2025-04-14,Pending,Cash on Delivery
+99,333,2024-08-07,Pending,Credit Card
+100,796,2024-09-22,Delivered,Credit Card
+101,965,2025-03-02,Returned,Net Banking
+102,582,2025-03-04,Delivered,Cash on Delivery
+103,611,2024-12-20,Pending,Net Banking
+104,87,2024-08-26,Cancelled,Credit Card
+105,905,2025-05-17,Pending,Cash on Delivery
+106,54,2025-03-23,Pending,Cash on Delivery
+107,160,2025-06-09,Cancelled,UPI
+108,162,2025-04-15,Returned,Credit Card
+109,773,2024-09-08,Pending,UPI
+110,633,2025-04-01,Returned,UPI
+111,51,2024-06-27,Cancelled,Cash on Delivery
+112,691,2025-06-08,Cancelled,UPI
+113,84,2025-05-01,Cancelled,Credit Card
+114,279,2025-01-08,Delivered,Net Banking
+115,454,2025-05-03,Returned,UPI
+116,678,2024-08-07,Delivered,UPI
+117,435,2025-01-05,Cancelled,Cash on Delivery
+118,498,2024-08-22,Pending,Cash on Delivery
+119,622,2025-06-17,Delivered,Cash on Delivery
+120,453,2024-07-25,Pending,Net Banking
+121,425,2025-03-23,Delivered,Cash on Delivery
+122,280,2024-10-24,Returned,Credit Card
+123,221,2024-09-28,Pending,Credit Card
+124,774,2025-04-16,Delivered,Cash on Delivery
+125,525,2024-12-01,Cancelled,Cash on Delivery
+126,117,2024-10-22,Cancelled,Net Banking
+127,354,2025-05-13,Returned,Net Banking
+128,441,2024-09-16,Returned,Credit Card
+129,114,2025-01-23,Delivered,Net Banking
+130,291,2025-03-01,Cancelled,Cash on Delivery
+131,695,2024-08-03,Pending,Net Banking
+132,695,2025-05-09,Delivered,Cash on Delivery
+133,608,2024-09-09,Delivered,Credit Card
+134,499,2024-07-06,Cancelled,UPI
+135,540,2024-07-03,Returned,Net Banking
+136,684,2024-07-09,Pending,Credit Card
+137,316,2024-10-19,Returned,Credit Card
+138,47,2024-08-13,Delivered,Net Banking
+139,226,2024-09-15,Delivered,UPI
+140,405,2024-09-07,Cancelled,Cash on Delivery
+141,614,2025-05-14,Returned,Credit Card
+142,57,2025-04-24,Delivered,Credit Card
+143,8,2025-03-18,Delivered,UPI
+144,210,2024-07-24,Returned,Cash on Delivery
+145,309,2024-07-23,Cancelled,Credit Card
+146,969,2024-10-03,Cancelled,UPI
+147,217,2024-12-19,Pending,Net Banking
+148,786,2024-08-12,Pending,UPI
+149,141,2024-12-07,Pending,UPI
+150,783,2024-11-12,Returned,Credit Card
+151,262,2025-03-10,Pending,Cash on Delivery
+152,297,2024-11-30,Pending,Net Banking
+153,336,2024-07-01,Returned,UPI
+154,123,2025-03-25,Pending,Net Banking
+155,8,2025-02-14,Cancelled,Cash on Delivery
+156,510,2024-10-21,Delivered,Net Banking
+157,765,2024-11-07,Cancelled,Net Banking
+158,441,2024-11-24,Cancelled,Credit Card
+159,180,2024-11-19,Delivered,Cash on Delivery
+160,133,2024-09-15,Cancelled,UPI
+161,390,2024-10-22,Delivered,Credit Card
+162,546,2024-12-10,Cancelled,Credit Card
+163,721,2025-02-22,Returned,UPI
+164,236,2025-02-11,Returned,Cash on Delivery
+165,513,2025-06-19,Pending,Net Banking
+166,573,2024-12-29,Returned,Cash on Delivery
+167,854,2025-02-28,Delivered,Cash on Delivery
+168,685,2025-02-20,Pending,Net Banking
+169,826,2025-02-12,Cancelled,Net Banking
+170,363,2024-07-13,Returned,Net Banking
+171,74,2025-03-17,Pending,Cash on Delivery
+172,407,2025-01-03,Returned,UPI
+173,883,2024-07-09,Pending,Cash on Delivery
+174,760,2025-01-07,Delivered,UPI
+175,44,2024-10-29,Delivered,Cash on Delivery
+176,447,2024-11-10,Cancelled,UPI
+177,20,2024-07-09,Pending,Net Banking
+178,471,2024-10-04,Delivered,Cash on Delivery
+179,944,2025-03-26,Cancelled,Cash on Delivery
+180,80,2024-12-27,Pending,Credit Card
+181,883,2025-05-27,Cancelled,UPI
+182,321,2025-05-02,Delivered,Cash on Delivery
+183,590,2024-11-23,Cancelled,Cash on Delivery
+184,440,2025-04-15,Pending,Net Banking
+185,588,2025-01-22,Returned,UPI
+186,415,2025-04-21,Delivered,UPI
+187,727,2024-08-04,Pending,Cash on Delivery
+188,656,2024-12-08,Pending,UPI
+189,428,2025-03-21,Cancelled,UPI
+190,297,2025-02-10,Delivered,UPI
+191,118,2025-02-22,Returned,UPI
+192,415,2025-06-04,Returned,UPI
+193,22,2024-11-10,Cancelled,Credit Card
+194,990,2025-03-19,Delivered,Credit Card
+195,333,2025-01-03,Returned,Cash on Delivery
+196,176,2024-07-07,Delivered,UPI
+197,821,2024-11-21,Cancelled,Net Banking
+198,971,2024-07-12,Delivered,Cash on Delivery
+199,633,2025-01-02,Delivered,Cash on Delivery
+200,472,2025-04-17,Delivered,UPI
+201,852,2025-06-13,Cancelled,UPI
+202,707,2024-07-30,Cancelled,Credit Card
+203,942,2024-12-28,Cancelled,Cash on Delivery
+204,371,2024-10-02,Returned,Cash on Delivery
+205,91,2025-01-24,Pending,UPI
+206,448,2024-08-01,Delivered,Cash on Delivery
+207,865,2024-07-29,Pending,Net Banking
+208,109,2024-09-30,Delivered,UPI
+209,250,2025-04-04,Delivered,Cash on Delivery
+210,447,2025-05-15,Delivered,Credit Card
+211,604,2025-03-31,Cancelled,Credit Card
+212,411,2025-02-27,Returned,Net Banking
+213,537,2025-06-20,Cancelled,Net Banking
+214,81,2024-08-02,Delivered,UPI
+215,406,2024-12-20,Pending,Net Banking
+216,892,2024-11-21,Delivered,Cash on Delivery
+217,318,2025-04-13,Delivered,UPI
+218,764,2024-11-05,Returned,Credit Card
+219,348,2024-09-28,Delivered,Cash on Delivery
+220,227,2025-02-16,Cancelled,Cash on Delivery
+221,342,2024-12-26,Returned,Net Banking
+222,798,2024-07-10,Returned,Cash on Delivery
+223,173,2024-10-30,Returned,UPI
+224,79,2024-10-25,Delivered,Net Banking
+225,523,2025-01-27,Returned,Cash on Delivery
+226,649,2025-04-24,Returned,Credit Card
+227,117,2025-03-27,Cancelled,Net Banking
+228,544,2025-05-24,Pending,Credit Card
+229,523,2024-12-19,Cancelled,UPI
+230,199,2024-09-19,Cancelled,Credit Card
+231,928,2025-02-20,Pending,Cash on Delivery
+232,795,2024-12-03,Pending,Credit Card
+233,358,2024-08-02,Returned,Net Banking
+234,360,2024-06-30,Cancelled,UPI
+235,745,2025-03-19,Delivered,Net Banking
+236,982,2024-08-15,Cancelled,Cash on Delivery
+237,839,2025-02-12,Pending,Credit Card
+238,661,2025-05-28,Returned,Cash on Delivery
+239,835,2025-03-16,Returned,Credit Card
+240,152,2025-04-26,Returned,UPI
+241,242,2024-07-07,Delivered,UPI
+242,106,2025-06-25,Delivered,Cash on Delivery
+243,150,2025-01-09,Pending,UPI
+244,263,2024-12-16,Returned,Credit Card
+245,203,2024-07-23,Cancelled,Credit Card
+246,178,2025-01-07,Returned,Net Banking
+247,617,2024-09-05,Cancelled,Credit Card
+248,157,2024-12-23,Cancelled,Net Banking
+249,779,2024-10-11,Delivered,UPI
+250,778,2025-03-24,Returned,Net Banking
+251,672,2025-02-01,Pending,Cash on Delivery
+252,78,2024-11-24,Returned,Credit Card
+253,182,2025-05-04,Returned,Cash on Delivery
+254,975,2025-06-21,Pending,Net Banking
+255,792,2025-01-21,Pending,UPI
+256,644,2025-03-07,Returned,Net Banking
+257,506,2025-04-04,Pending,Cash on Delivery
+258,476,2024-07-15,Cancelled,Net Banking
+259,773,2024-10-03,Delivered,Cash on Delivery
+260,578,2025-02-09,Pending,Credit Card
+261,779,2024-08-11,Cancelled,Cash on Delivery
+262,594,2025-03-25,Delivered,Cash on Delivery
+263,460,2025-01-13,Pending,Cash on Delivery
+264,698,2025-01-03,Delivered,Cash on Delivery
+265,947,2024-09-02,Returned,Net Banking
+266,904,2025-06-12,Pending,Credit Card
+267,579,2024-12-19,Cancelled,UPI
+268,659,2024-10-18,Cancelled,Net Banking
+269,651,2025-05-24,Delivered,Net Banking
+270,640,2024-08-29,Cancelled,Net Banking
+271,331,2024-07-12,Cancelled,Cash on Delivery
+272,885,2024-10-17,Pending,UPI
+273,995,2025-02-15,Delivered,Net Banking
+274,643,2024-11-02,Cancelled,Net Banking
+275,324,2024-12-09,Returned,UPI
+276,155,2024-08-08,Pending,Credit Card
+277,451,2025-03-20,Cancelled,UPI
+278,70,2024-08-26,Cancelled,UPI
+279,481,2025-05-18,Cancelled,Cash on Delivery
+280,453,2024-07-26,Pending,Net Banking
+281,647,2024-09-12,Pending,Cash on Delivery
+282,311,2024-12-31,Delivered,Credit Card
+283,816,2025-01-01,Pending,Net Banking
+284,282,2024-10-01,Cancelled,Credit Card
+285,606,2024-06-29,Cancelled,Credit Card
+286,58,2024-11-24,Returned,Net Banking
+287,361,2025-04-24,Pending,Cash on Delivery
+288,520,2025-04-12,Cancelled,Net Banking
+289,76,2025-05-06,Returned,UPI
+290,318,2025-03-07,Delivered,Net Banking
+291,473,2025-06-13,Delivered,UPI
+292,463,2024-09-03,Delivered,UPI
+293,39,2025-04-22,Cancelled,UPI
+294,59,2024-11-20,Cancelled,Net Banking
+295,378,2024-07-14,Delivered,Cash on Delivery
+296,852,2024-10-22,Returned,Net Banking
+297,294,2024-09-05,Delivered,Credit Card
+298,79,2024-09-21,Pending,Cash on Delivery
+299,661,2024-11-06,Cancelled,Cash on Delivery
+300,885,2025-05-29,Cancelled,Net Banking
+301,876,2025-03-19,Pending,Net Banking
+302,93,2025-02-08,Cancelled,UPI
+303,630,2025-05-21,Pending,Credit Card
+304,609,2025-01-04,Delivered,Credit Card
+305,520,2024-09-23,Delivered,UPI
+306,394,2025-03-31,Cancelled,Cash on Delivery
+307,474,2024-12-16,Cancelled,Cash on Delivery
+308,595,2025-05-06,Delivered,Net Banking
+309,568,2025-03-26,Pending,Credit Card
+310,978,2025-06-16,Delivered,Cash on Delivery
+311,811,2024-08-11,Pending,Net Banking
+312,757,2024-08-05,Returned,UPI
+313,918,2024-08-29,Delivered,Net Banking
+314,43,2024-08-20,Pending,UPI
+315,461,2024-08-17,Pending,Credit Card
+316,931,2025-04-10,Pending,Credit Card
+317,830,2025-02-17,Cancelled,Cash on Delivery
+318,586,2025-01-31,Cancelled,Net Banking
+319,668,2024-07-06,Returned,Credit Card
+320,193,2024-12-14,Returned,Cash on Delivery
+321,330,2025-01-05,Pending,Net Banking
+322,620,2024-11-16,Cancelled,Net Banking
+323,488,2025-05-01,Pending,Cash on Delivery
+324,514,2025-03-25,Cancelled,Net Banking
+325,155,2024-12-10,Cancelled,Credit Card
+326,981,2024-07-04,Returned,Cash on Delivery
+327,64,2025-03-29,Pending,Credit Card
+328,462,2025-01-16,Pending,Cash on Delivery
+329,106,2025-06-10,Cancelled,UPI
+330,831,2025-03-23,Cancelled,Credit Card
+331,921,2024-11-17,Delivered,UPI
+332,858,2025-02-28,Returned,Cash on Delivery
+333,352,2025-01-24,Delivered,Net Banking
+334,732,2024-08-07,Cancelled,UPI
+335,87,2024-12-06,Pending,Cash on Delivery
+336,517,2024-12-27,Cancelled,UPI
+337,662,2024-07-10,Delivered,Credit Card
+338,177,2024-10-13,Returned,Cash on Delivery
+339,41,2024-12-13,Cancelled,Cash on Delivery
+340,254,2025-01-29,Pending,Net Banking
+341,725,2025-03-26,Delivered,Cash on Delivery
+342,449,2024-12-07,Cancelled,Credit Card
+343,450,2024-07-22,Pending,Cash on Delivery
+344,537,2024-07-22,Pending,Cash on Delivery
+345,536,2024-07-30,Cancelled,Credit Card
+346,625,2024-10-07,Delivered,UPI
+347,163,2025-06-02,Pending,UPI
+348,373,2025-03-12,Returned,Credit Card
+349,382,2024-11-12,Delivered,UPI
+350,940,2024-12-28,Pending,Cash on Delivery
+351,290,2024-11-29,Cancelled,Cash on Delivery
+352,397,2025-01-09,Cancelled,Cash on Delivery
+353,419,2025-06-19,Delivered,Cash on Delivery
+354,794,2024-09-29,Pending,Cash on Delivery
+355,347,2025-06-14,Pending,Credit Card
+356,696,2025-06-22,Delivered,Cash on Delivery
+357,613,2025-06-02,Delivered,UPI
+358,54,2024-08-19,Delivered,Credit Card
+359,809,2024-08-12,Returned,UPI
+360,647,2024-07-06,Returned,Cash on Delivery
+361,663,2024-08-28,Returned,Cash on Delivery
+362,343,2024-07-30,Cancelled,Net Banking
+363,68,2025-02-03,Returned,Net Banking
+364,338,2024-09-07,Returned,Cash on Delivery
+365,97,2025-03-12,Returned,UPI
+366,572,2024-09-11,Pending,Credit Card
+367,695,2024-12-17,Returned,UPI
+368,396,2025-03-10,Delivered,UPI
+369,291,2025-01-25,Returned,UPI
+370,259,2024-11-18,Cancelled,UPI
+371,742,2025-01-29,Cancelled,Credit Card
+372,873,2024-10-07,Returned,Net Banking
+373,673,2024-12-29,Delivered,Net Banking
+374,988,2024-07-22,Delivered,Credit Card
+375,929,2025-04-29,Pending,Credit Card
+376,618,2025-03-08,Delivered,UPI
+377,895,2024-09-07,Pending,Credit Card
+378,154,2025-02-08,Pending,Net Banking
+379,342,2024-12-04,Delivered,Cash on Delivery
+380,84,2024-08-10,Delivered,Cash on Delivery
+381,597,2025-01-30,Pending,Cash on Delivery
+382,680,2024-07-12,Cancelled,UPI
+383,145,2024-09-25,Returned,Net Banking
+384,939,2024-09-13,Cancelled,Cash on Delivery
+385,359,2024-08-23,Delivered,UPI
+386,318,2024-10-21,Delivered,Cash on Delivery
+387,991,2024-08-17,Pending,Credit Card
+388,672,2025-04-12,Returned,Credit Card
+389,716,2025-03-26,Delivered,UPI
+390,679,2024-11-25,Returned,UPI
+391,402,2024-07-01,Cancelled,UPI
+392,133,2024-11-18,Returned,UPI
+393,610,2024-07-20,Cancelled,Cash on Delivery
+394,726,2025-01-11,Delivered,UPI
+395,961,2025-04-29,Delivered,UPI
+396,87,2024-07-01,Pending,UPI
+397,318,2024-08-09,Cancelled,Credit Card
+398,573,2025-01-16,Cancelled,Net Banking
+399,386,2025-03-12,Returned,Credit Card
+400,659,2024-10-08,Pending,Credit Card
+401,811,2025-02-09,Pending,Credit Card
+402,337,2025-01-19,Pending,Net Banking
+403,833,2024-06-30,Cancelled,Net Banking
+404,131,2024-10-22,Delivered,Credit Card
+405,687,2025-06-03,Delivered,UPI
+406,720,2025-05-08,Returned,Credit Card
+407,849,2024-08-19,Returned,Credit Card
+408,970,2024-10-29,Cancelled,Credit Card
+409,757,2025-06-19,Delivered,Net Banking
+410,702,2024-09-29,Pending,Credit Card
+411,935,2025-05-27,Delivered,Cash on Delivery
+412,540,2024-12-30,Returned,Credit Card
+413,96,2025-05-04,Delivered,Credit Card
+414,662,2024-09-17,Pending,Cash on Delivery
+415,687,2024-09-08,Returned,Credit Card
+416,434,2025-03-11,Cancelled,Credit Card
+417,521,2024-12-28,Delivered,Credit Card
+418,371,2024-12-29,Delivered,UPI
+419,19,2024-12-29,Cancelled,UPI
+420,372,2024-09-18,Cancelled,UPI
+421,317,2024-08-04,Pending,Cash on Delivery
+422,185,2024-09-01,Delivered,Credit Card
+423,974,2024-11-24,Returned,Credit Card
+424,220,2025-01-27,Delivered,UPI
+425,350,2025-02-27,Pending,Cash on Delivery
+426,971,2025-02-25,Returned,Cash on Delivery
+427,785,2025-01-23,Returned,Cash on Delivery
+428,498,2025-05-26,Returned,UPI
+429,197,2025-05-05,Pending,UPI
+430,232,2024-07-24,Delivered,Credit Card
+431,141,2024-08-22,Returned,Credit Card
+432,159,2025-03-13,Cancelled,Credit Card
+433,80,2024-08-15,Pending,UPI
+434,303,2025-05-26,Returned,UPI
+435,865,2025-01-11,Pending,Cash on Delivery
+436,808,2024-08-22,Cancelled,UPI
+437,104,2025-05-27,Returned,Credit Card
+438,520,2025-04-18,Delivered,Credit Card
+439,790,2024-07-23,Pending,UPI
+440,553,2024-12-29,Returned,Net Banking
+441,856,2025-01-12,Returned,Cash on Delivery
+442,757,2024-07-25,Pending,UPI
+443,905,2025-02-01,Cancelled,Net Banking
+444,540,2024-08-29,Pending,Credit Card
+445,39,2024-09-30,Delivered,UPI
+446,678,2025-02-25,Cancelled,Cash on Delivery
+447,345,2025-04-15,Delivered,Net Banking
+448,898,2024-12-04,Delivered,Net Banking
+449,785,2025-05-19,Pending,UPI
+450,633,2025-02-24,Returned,UPI
+451,135,2024-11-14,Cancelled,Net Banking
+452,612,2025-06-26,Delivered,Credit Card
+453,386,2024-09-22,Returned,Cash on Delivery
+454,158,2025-05-14,Returned,Credit Card
+455,167,2024-10-06,Returned,Net Banking
+456,186,2024-12-01,Cancelled,Credit Card
+457,852,2024-07-20,Returned,UPI
+458,710,2025-04-15,Pending,Net Banking
+459,790,2024-12-11,Delivered,Cash on Delivery
+460,640,2024-07-13,Returned,Cash on Delivery
+461,829,2025-05-31,Delivered,Credit Card
+462,925,2024-10-29,Cancelled,Credit Card
+463,170,2025-04-26,Delivered,Cash on Delivery
+464,739,2024-11-27,Returned,Net Banking
+465,449,2024-07-07,Cancelled,Credit Card
+466,45,2024-09-09,Cancelled,Net Banking
+467,421,2025-03-14,Cancelled,Cash on Delivery
+468,374,2025-04-05,Cancelled,Net Banking
+469,693,2025-06-23,Cancelled,Cash on Delivery
+470,737,2024-11-19,Delivered,Net Banking
+471,244,2024-11-25,Returned,UPI
+472,993,2024-12-18,Delivered,Net Banking
+473,455,2025-02-17,Returned,Cash on Delivery
+474,626,2025-05-17,Cancelled,Net Banking
+475,292,2025-05-29,Cancelled,UPI
+476,771,2024-09-22,Pending,Credit Card
+477,767,2025-04-13,Pending,Net Banking
+478,803,2025-06-14,Delivered,Cash on Delivery
+479,460,2024-08-15,Delivered,UPI
+480,240,2024-12-30,Returned,Credit Card
+481,547,2025-02-20,Returned,Net Banking
+482,245,2025-04-29,Pending,Credit Card
+483,317,2025-01-10,Pending,Net Banking
+484,989,2025-06-07,Returned,Net Banking
+485,829,2024-12-01,Delivered,Credit Card
+486,804,2025-03-04,Returned,Credit Card
+487,481,2025-05-31,Delivered,UPI
+488,926,2025-04-16,Returned,Net Banking
+489,856,2025-02-28,Cancelled,Net Banking
+490,199,2024-08-27,Cancelled,Credit Card
+491,377,2024-09-28,Delivered,UPI
+492,695,2025-02-14,Delivered,Credit Card
+493,970,2025-01-15,Delivered,Cash on Delivery
+494,585,2024-10-16,Pending,UPI
+495,452,2025-01-06,Pending,Cash on Delivery
+496,473,2025-04-23,Returned,UPI
+497,788,2024-07-26,Pending,Net Banking
+498,289,2024-12-12,Returned,Credit Card
+499,797,2025-02-14,Returned,UPI
+500,392,2024-07-09,Returned,Net Banking
+501,515,2024-12-06,Delivered,Net Banking
+502,541,2024-07-22,Cancelled,Cash on Delivery
+503,429,2025-01-31,Pending,Cash on Delivery
+504,990,2024-07-29,Returned,Net Banking
+505,166,2025-03-27,Cancelled,Cash on Delivery
+506,837,2025-06-08,Returned,Net Banking
+507,205,2025-04-24,Delivered,Net Banking
+508,821,2024-08-22,Returned,Net Banking
+509,620,2025-04-23,Pending,Cash on Delivery
+510,142,2025-03-03,Cancelled,UPI
+511,894,2024-07-12,Delivered,Net Banking
+512,257,2024-11-17,Returned,Credit Card
+513,54,2024-10-12,Pending,Credit Card
+514,657,2024-11-26,Pending,Cash on Delivery
+515,493,2024-10-14,Delivered,Net Banking
+516,896,2024-12-24,Pending,Net Banking
+517,381,2025-03-06,Pending,UPI
+518,568,2025-05-06,Pending,UPI
+519,957,2025-06-18,Pending,Credit Card
+520,106,2024-11-06,Returned,Credit Card
+521,729,2024-10-22,Delivered,Credit Card
+522,867,2025-05-17,Cancelled,Credit Card
+523,529,2025-01-20,Cancelled,Net Banking
+524,872,2025-02-17,Pending,Credit Card
+525,128,2024-11-01,Returned,UPI
+526,292,2025-06-19,Pending,Net Banking
+527,86,2024-10-24,Pending,Cash on Delivery
+528,782,2025-05-25,Returned,UPI
+529,165,2024-12-26,Delivered,Cash on Delivery
+530,280,2025-01-11,Cancelled,Credit Card
+531,461,2025-01-02,Returned,Credit Card
+532,928,2024-11-23,Cancelled,Net Banking
+533,526,2025-04-17,Returned,Net Banking
+534,151,2025-05-31,Returned,UPI
+535,851,2025-05-19,Pending,Cash on Delivery
+536,448,2025-03-21,Delivered,Net Banking
+537,94,2025-02-10,Cancelled,Net Banking
+538,970,2025-03-24,Delivered,Cash on Delivery
+539,933,2025-01-30,Pending,Cash on Delivery
+540,228,2025-06-20,Returned,Credit Card
+541,837,2025-03-18,Cancelled,Credit Card
+542,462,2025-02-17,Delivered,Net Banking
+543,906,2025-02-14,Cancelled,Credit Card
+544,358,2025-03-10,Cancelled,Net Banking
+545,953,2025-04-28,Cancelled,Net Banking
+546,28,2025-02-04,Delivered,Cash on Delivery
+547,425,2024-08-19,Cancelled,Net Banking
+548,55,2024-12-26,Delivered,Net Banking
+549,406,2024-11-04,Returned,Net Banking
+550,515,2024-08-01,Delivered,Credit Card
+551,383,2025-03-22,Pending,Credit Card
+552,242,2025-01-03,Cancelled,UPI
+553,396,2024-11-06,Pending,Cash on Delivery
+554,84,2025-01-19,Pending,UPI
+555,384,2025-01-13,Returned,Net Banking
+556,230,2025-02-21,Returned,Net Banking
+557,29,2025-02-27,Delivered,UPI
+558,327,2024-07-21,Delivered,Cash on Delivery
+559,954,2024-10-02,Cancelled,Net Banking
+560,102,2025-02-26,Pending,Net Banking
+561,860,2024-10-09,Returned,Credit Card
+562,732,2025-06-24,Returned,Net Banking
+563,666,2024-10-10,Cancelled,Net Banking
+564,344,2025-06-01,Returned,Net Banking
+565,811,2024-10-17,Pending,UPI
+566,150,2025-02-12,Pending,Credit Card
+567,141,2025-01-12,Cancelled,Net Banking
+568,40,2024-09-23,Pending,Cash on Delivery
+569,294,2024-10-26,Delivered,Net Banking
+570,940,2025-06-21,Pending,Net Banking
+571,850,2025-06-13,Delivered,Cash on Delivery
+572,484,2024-10-30,Returned,Cash on Delivery
+573,713,2025-06-14,Delivered,Cash on Delivery
+574,852,2024-09-27,Cancelled,Credit Card
+575,143,2025-02-01,Cancelled,Credit Card
+576,778,2024-09-09,Cancelled,Credit Card
+577,723,2024-11-09,Cancelled,UPI
+578,481,2024-10-23,Cancelled,Cash on Delivery
+579,460,2024-09-09,Pending,Cash on Delivery
+580,631,2025-05-13,Returned,Credit Card
+581,6,2024-11-04,Delivered,Cash on Delivery
+582,928,2025-01-14,Delivered,Net Banking
+583,82,2025-03-16,Returned,Credit Card
+584,20,2024-12-03,Cancelled,Net Banking
+585,263,2024-10-13,Cancelled,Cash on Delivery
+586,221,2024-10-07,Delivered,Cash on Delivery
+587,856,2025-02-14,Cancelled,Net Banking
+588,154,2024-12-08,Pending,Cash on Delivery
+589,562,2025-03-14,Pending,Credit Card
+590,963,2025-03-09,Pending,UPI
+591,745,2024-09-08,Returned,UPI
+592,624,2025-04-21,Returned,UPI
+593,541,2025-02-20,Pending,Cash on Delivery
+594,434,2025-06-07,Returned,Credit Card
+595,114,2025-04-28,Pending,Credit Card
+596,795,2024-08-20,Cancelled,Cash on Delivery
+597,296,2025-05-04,Returned,Credit Card
+598,244,2025-04-22,Pending,Cash on Delivery
+599,309,2025-03-21,Returned,UPI
+600,125,2024-10-19,Delivered,Credit Card
+601,49,2024-09-08,Delivered,Cash on Delivery
+602,245,2025-03-20,Pending,Credit Card
+603,430,2025-03-20,Pending,Net Banking
+604,655,2024-11-14,Pending,Net Banking
+605,813,2025-03-30,Delivered,Net Banking
+606,638,2025-01-23,Returned,Cash on Delivery
+607,469,2025-01-27,Delivered,Credit Card
+608,65,2024-10-29,Pending,Net Banking
+609,114,2024-09-14,Pending,Credit Card
+610,857,2025-05-02,Pending,Cash on Delivery
+611,927,2024-12-23,Pending,Net Banking
+612,512,2025-02-07,Pending,Net Banking
+613,612,2025-01-14,Pending,Cash on Delivery
+614,549,2024-09-02,Cancelled,Credit Card
+615,17,2024-08-11,Cancelled,Net Banking
+616,648,2025-04-04,Cancelled,Credit Card
+617,528,2025-04-03,Delivered,UPI
+618,589,2025-06-02,Returned,Cash on Delivery
+619,248,2024-10-18,Pending,Net Banking
+620,736,2025-03-02,Cancelled,Cash on Delivery
+621,148,2024-09-30,Delivered,UPI
+622,299,2024-09-14,Returned,Cash on Delivery
+623,440,2025-02-14,Pending,Cash on Delivery
+624,2,2025-04-29,Pending,Net Banking
+625,630,2025-02-28,Returned,UPI
+626,362,2025-05-15,Returned,Net Banking
+627,247,2024-11-05,Returned,Credit Card
+628,585,2024-09-06,Delivered,UPI
+629,427,2025-06-06,Cancelled,Cash on Delivery
+630,192,2025-03-05,Pending,Cash on Delivery
+631,681,2025-05-07,Cancelled,Credit Card
+632,685,2025-01-05,Returned,Cash on Delivery
+633,88,2024-11-19,Pending,Net Banking
+634,537,2024-09-30,Pending,UPI
+635,999,2024-11-26,Cancelled,Credit Card
+636,370,2025-01-01,Cancelled,Credit Card
+637,70,2025-04-01,Pending,Cash on Delivery
+638,977,2024-10-10,Delivered,Cash on Delivery
+639,539,2025-06-24,Returned,Credit Card
+640,558,2025-02-02,Cancelled,Net Banking
+641,520,2024-12-22,Pending,Net Banking
+642,806,2025-01-21,Cancelled,UPI
+643,520,2024-11-06,Pending,Cash on Delivery
+644,568,2024-08-22,Delivered,Credit Card
+645,21,2024-10-03,Cancelled,Cash on Delivery
+646,400,2025-02-17,Pending,Cash on Delivery
+647,895,2024-07-24,Cancelled,Net Banking
+648,482,2024-10-03,Pending,Cash on Delivery
+649,45,2024-08-14,Returned,UPI
+650,651,2024-11-20,Pending,Net Banking
+651,397,2025-05-08,Pending,Net Banking
+652,383,2025-01-26,Pending,Cash on Delivery
+653,260,2024-11-26,Pending,Net Banking
+654,766,2024-06-28,Returned,UPI
+655,17,2024-07-22,Delivered,Credit Card
+656,366,2024-09-08,Returned,UPI
+657,808,2025-05-08,Delivered,Net Banking
+658,70,2025-06-24,Delivered,UPI
+659,354,2024-10-03,Returned,Net Banking
+660,247,2025-06-22,Cancelled,Cash on Delivery
+661,751,2025-01-05,Delivered,Net Banking
+662,673,2024-12-20,Returned,Credit Card
+663,644,2025-06-25,Pending,UPI
+664,107,2025-01-26,Returned,Cash on Delivery
+665,791,2025-02-08,Delivered,Net Banking
+666,596,2025-05-11,Cancelled,UPI
+667,753,2024-10-12,Cancelled,UPI
+668,775,2025-01-11,Cancelled,UPI
+669,341,2025-02-02,Pending,Cash on Delivery
+670,137,2024-12-07,Returned,Net Banking
+671,46,2024-09-12,Returned,Net Banking
+672,361,2024-10-08,Cancelled,Cash on Delivery
+673,560,2024-07-16,Pending,Credit Card
+674,347,2024-12-10,Cancelled,UPI
+675,834,2025-02-25,Delivered,Net Banking
+676,659,2025-01-03,Returned,Cash on Delivery
+677,180,2025-02-13,Pending,Cash on Delivery
+678,851,2024-08-07,Cancelled,UPI
+679,798,2024-12-29,Pending,Cash on Delivery
+680,702,2024-12-13,Delivered,UPI
+681,476,2024-11-24,Delivered,Net Banking
+682,713,2024-10-26,Returned,UPI
+683,491,2024-08-12,Pending,Credit Card
+684,647,2024-08-20,Cancelled,UPI
+685,187,2024-09-05,Cancelled,UPI
+686,831,2024-08-13,Cancelled,Credit Card
+687,139,2024-11-14,Returned,UPI
+688,65,2025-04-18,Delivered,Cash on Delivery
+689,734,2025-05-04,Cancelled,Net Banking
+690,795,2024-07-18,Returned,Net Banking
+691,967,2024-07-12,Returned,Net Banking
+692,469,2025-05-22,Returned,Net Banking
+693,38,2024-07-24,Returned,Credit Card
+694,301,2024-10-12,Returned,UPI
+695,207,2024-08-07,Returned,UPI
+696,45,2025-01-26,Delivered,Cash on Delivery
+697,811,2025-01-20,Delivered,UPI
+698,205,2024-10-09,Cancelled,Credit Card
+699,908,2024-08-15,Pending,Cash on Delivery
+700,43,2025-04-27,Delivered,Cash on Delivery
+701,324,2024-08-03,Pending,UPI
+702,956,2025-06-21,Cancelled,Credit Card
+703,318,2025-04-11,Delivered,Net Banking
+704,528,2025-03-20,Delivered,Credit Card
+705,408,2024-12-08,Cancelled,Credit Card
+706,835,2024-09-14,Cancelled,Credit Card
+707,557,2024-07-12,Pending,Cash on Delivery
+708,485,2025-06-08,Pending,Cash on Delivery
+709,260,2025-03-10,Cancelled,Credit Card
+710,38,2025-02-02,Delivered,Net Banking
+711,772,2024-07-20,Returned,Cash on Delivery
+712,663,2024-06-30,Pending,Credit Card
+713,196,2024-08-09,Cancelled,Net Banking
+714,293,2024-11-05,Delivered,UPI
+715,366,2025-02-24,Delivered,UPI
+716,883,2025-04-02,Pending,Credit Card
+717,800,2024-10-12,Pending,Credit Card
+718,49,2024-10-15,Returned,Cash on Delivery
+719,887,2024-12-10,Pending,Net Banking
+720,672,2024-09-28,Returned,Credit Card
+721,340,2024-09-24,Cancelled,UPI
+722,280,2024-09-20,Pending,Credit Card
+723,128,2025-02-22,Returned,Cash on Delivery
+724,819,2025-02-16,Pending,Cash on Delivery
+725,377,2025-02-03,Cancelled,Net Banking
+726,448,2025-04-14,Cancelled,UPI
+727,911,2024-10-08,Returned,Net Banking
+728,410,2025-06-22,Delivered,UPI
+729,762,2025-01-27,Cancelled,UPI
+730,451,2024-11-11,Cancelled,Credit Card
+731,917,2025-05-19,Cancelled,UPI
+732,980,2024-09-26,Cancelled,UPI
+733,396,2024-08-24,Delivered,Cash on Delivery
+734,348,2024-07-05,Cancelled,Net Banking
+735,998,2025-01-28,Delivered,Net Banking
+736,192,2025-02-08,Pending,Cash on Delivery
+737,509,2024-10-28,Delivered,Credit Card
+738,709,2025-04-19,Returned,Net Banking
+739,510,2024-09-20,Pending,Cash on Delivery
+740,377,2024-09-01,Delivered,Credit Card
+741,947,2025-05-05,Delivered,Cash on Delivery
+742,817,2025-05-13,Delivered,Net Banking
+743,532,2024-11-22,Delivered,Net Banking
+744,274,2024-09-13,Delivered,UPI
+745,821,2025-01-23,Delivered,Cash on Delivery
+746,85,2025-02-21,Returned,UPI
+747,745,2024-07-03,Returned,Cash on Delivery
+748,435,2024-08-28,Returned,Net Banking
+749,81,2024-08-01,Delivered,Cash on Delivery
+750,441,2025-02-03,Pending,Cash on Delivery
+751,617,2025-04-10,Returned,Credit Card
+752,843,2025-02-20,Cancelled,Credit Card
+753,185,2024-10-09,Cancelled,Credit Card
+754,559,2025-05-07,Delivered,UPI
+755,301,2025-01-01,Pending,Cash on Delivery
+756,329,2024-08-14,Returned,Net Banking
+757,106,2024-08-03,Delivered,Cash on Delivery
+758,82,2024-09-30,Pending,Cash on Delivery
+759,336,2025-05-21,Cancelled,Credit Card
+760,677,2024-12-01,Returned,UPI
+761,303,2024-09-20,Delivered,Net Banking
+762,314,2024-09-28,Delivered,Net Banking
+763,457,2024-12-22,Pending,Credit Card
+764,618,2025-02-18,Delivered,Net Banking
+765,735,2024-08-30,Delivered,Cash on Delivery
+766,437,2025-06-08,Returned,Cash on Delivery
+767,171,2024-09-02,Cancelled,Credit Card
+768,707,2025-06-18,Cancelled,UPI
+769,455,2024-09-20,Pending,Cash on Delivery
+770,360,2024-10-13,Cancelled,UPI
+771,458,2024-08-07,Pending,UPI
+772,44,2024-06-28,Returned,Net Banking
+773,745,2024-09-27,Pending,Cash on Delivery
+774,891,2025-03-14,Cancelled,Net Banking
+775,934,2024-10-24,Delivered,Credit Card
+776,362,2024-12-13,Returned,Cash on Delivery
+777,630,2025-02-07,Cancelled,Credit Card
+778,446,2025-05-27,Returned,Net Banking
+779,282,2025-02-14,Pending,Net Banking
+780,655,2025-05-22,Cancelled,Net Banking
+781,811,2024-11-24,Delivered,Cash on Delivery
+782,971,2024-12-17,Delivered,Net Banking
+783,59,2024-09-17,Delivered,Credit Card
+784,77,2024-09-25,Delivered,UPI
+785,688,2024-08-04,Returned,Cash on Delivery
+786,653,2025-05-22,Cancelled,Credit Card
+787,416,2024-07-28,Delivered,Cash on Delivery
+788,373,2024-12-02,Delivered,Net Banking
+789,526,2025-03-30,Delivered,Cash on Delivery
+790,821,2024-12-16,Pending,Net Banking
+791,768,2024-12-15,Cancelled,Credit Card
+792,696,2024-08-24,Returned,Credit Card
+793,164,2025-04-10,Pending,UPI
+794,976,2025-06-06,Pending,Net Banking
+795,32,2024-11-23,Returned,UPI
+796,147,2025-05-23,Delivered,Credit Card
+797,870,2025-02-20,Delivered,Net Banking
+798,623,2025-04-14,Cancelled,UPI
+799,695,2024-11-21,Delivered,Cash on Delivery
+800,801,2024-07-05,Pending,Cash on Delivery
+801,449,2025-01-23,Pending,Credit Card
+802,36,2025-04-20,Pending,Credit Card
+803,130,2024-10-10,Returned,UPI
+804,69,2024-09-14,Delivered,UPI
+805,242,2025-06-04,Delivered,UPI
+806,798,2025-03-15,Delivered,Net Banking
+807,661,2025-01-03,Delivered,Cash on Delivery
+808,376,2024-12-13,Cancelled,Net Banking
+809,371,2025-04-29,Cancelled,Net Banking
+810,393,2025-06-01,Pending,UPI
+811,973,2025-01-16,Pending,Cash on Delivery
+812,581,2024-11-06,Returned,UPI
+813,34,2024-10-30,Pending,Cash on Delivery
+814,620,2024-07-05,Delivered,Cash on Delivery
+815,158,2025-01-06,Pending,UPI
+816,696,2025-01-10,Pending,Credit Card
+817,461,2025-02-21,Cancelled,Net Banking
+818,972,2024-11-24,Delivered,Cash on Delivery
+819,380,2025-05-18,Returned,UPI
+820,381,2024-12-15,Returned,Net Banking
+821,455,2025-02-17,Returned,Net Banking
+822,782,2024-09-14,Pending,UPI
+823,79,2024-11-18,Returned,Credit Card
+824,588,2024-08-22,Returned,Credit Card
+825,141,2025-03-27,Returned,UPI
+826,543,2024-07-27,Cancelled,Credit Card
+827,376,2025-02-15,Delivered,Net Banking
+828,408,2025-05-18,Cancelled,UPI
+829,322,2025-03-25,Delivered,Cash on Delivery
+830,666,2025-03-19,Cancelled,UPI
+831,286,2024-11-20,Delivered,Credit Card
+832,256,2024-08-31,Returned,Net Banking
+833,984,2025-04-29,Returned,Net Banking
+834,117,2024-11-30,Returned,Cash on Delivery
+835,27,2024-09-15,Cancelled,UPI
+836,754,2024-09-19,Returned,Credit Card
+837,191,2024-10-27,Pending,Cash on Delivery
+838,512,2024-11-11,Delivered,UPI
+839,531,2024-12-01,Cancelled,Credit Card
+840,397,2024-10-11,Returned,Credit Card
+841,936,2024-10-01,Returned,Net Banking
+842,576,2025-03-31,Delivered,Net Banking
+843,121,2024-10-17,Returned,Net Banking
+844,269,2025-06-10,Returned,Credit Card
+845,794,2024-09-24,Delivered,UPI
+846,267,2024-11-21,Delivered,UPI
+847,721,2025-02-15,Pending,UPI
+848,457,2025-06-02,Pending,Cash on Delivery
+849,220,2024-12-26,Delivered,Cash on Delivery
+850,627,2024-07-06,Cancelled,Net Banking
+851,293,2025-03-20,Pending,Net Banking
+852,711,2025-06-25,Delivered,UPI
+853,939,2025-01-31,Returned,Net Banking
+854,503,2024-09-29,Cancelled,UPI
+855,205,2025-03-04,Returned,UPI
+856,126,2025-03-24,Pending,Cash on Delivery
+857,139,2024-07-22,Returned,UPI
+858,874,2024-12-19,Cancelled,Net Banking
+859,76,2025-03-30,Delivered,UPI
+860,463,2025-05-03,Delivered,Net Banking
+861,177,2024-07-05,Cancelled,UPI
+862,921,2024-11-25,Returned,Credit Card
+863,731,2025-02-04,Returned,Cash on Delivery
+864,456,2024-11-08,Cancelled,Cash on Delivery
+865,90,2024-11-13,Delivered,UPI
+866,830,2024-11-21,Returned,Net Banking
+867,699,2024-07-04,Pending,UPI
+868,991,2025-01-03,Cancelled,Cash on Delivery
+869,866,2024-12-13,Pending,Net Banking
+870,328,2025-04-04,Pending,Credit Card
+871,684,2024-12-16,Delivered,Credit Card
+872,356,2025-06-15,Cancelled,Net Banking
+873,727,2024-12-08,Returned,UPI
+874,67,2024-07-31,Returned,Cash on Delivery
+875,564,2024-12-13,Cancelled,Net Banking
+876,556,2024-10-04,Delivered,UPI
+877,298,2024-11-09,Returned,Net Banking
+878,913,2024-09-23,Returned,Net Banking
+879,308,2024-10-09,Returned,Cash on Delivery
+880,872,2024-11-16,Delivered,Credit Card
+881,162,2025-06-16,Returned,Credit Card
+882,729,2024-10-05,Returned,Credit Card
+883,727,2024-12-29,Pending,Credit Card
+884,950,2024-08-27,Delivered,Cash on Delivery
+885,718,2024-08-31,Returned,UPI
+886,654,2024-09-20,Delivered,Net Banking
+887,179,2025-05-24,Delivered,Cash on Delivery
+888,813,2025-02-09,Returned,Credit Card
+889,371,2025-03-04,Returned,Credit Card
+890,521,2025-01-13,Delivered,Cash on Delivery
+891,230,2025-02-14,Delivered,Net Banking
+892,125,2025-01-19,Delivered,Cash on Delivery
+893,206,2025-05-07,Pending,Net Banking
+894,812,2024-09-11,Cancelled,Cash on Delivery
+895,143,2025-05-21,Returned,UPI
+896,243,2024-07-11,Pending,Credit Card
+897,810,2024-11-22,Pending,UPI
+898,506,2024-11-15,Delivered,Cash on Delivery
+899,27,2024-07-15,Cancelled,UPI
+900,370,2025-04-18,Returned,Net Banking
+901,568,2024-09-23,Pending,Cash on Delivery
+902,587,2024-07-31,Returned,Net Banking
+903,378,2025-03-28,Pending,UPI
+904,479,2025-06-17,Returned,Credit Card
+905,823,2024-08-27,Delivered,Cash on Delivery
+906,565,2024-08-01,Delivered,Net Banking
+907,133,2025-02-21,Cancelled,UPI
+908,627,2025-03-24,Delivered,Cash on Delivery
+909,906,2025-01-27,Pending,Credit Card
+910,89,2024-07-16,Pending,Cash on Delivery
+911,68,2024-10-02,Pending,Credit Card
+912,317,2024-07-27,Pending,UPI
+913,408,2025-01-16,Delivered,Net Banking
+914,735,2025-06-23,Delivered,Cash on Delivery
+915,737,2024-10-04,Cancelled,Cash on Delivery
+916,491,2024-12-19,Returned,Net Banking
+917,539,2024-08-23,Cancelled,Cash on Delivery
+918,421,2024-10-18,Returned,Cash on Delivery
+919,788,2024-08-21,Delivered,Cash on Delivery
+920,420,2025-05-26,Pending,Cash on Delivery
+921,844,2024-12-13,Cancelled,Net Banking
+922,589,2024-10-13,Cancelled,UPI
+923,76,2025-05-31,Delivered,Cash on Delivery
+924,129,2025-06-17,Returned,Net Banking
+925,996,2024-09-07,Cancelled,UPI
+926,325,2024-09-23,Returned,Net Banking
+927,658,2024-12-03,Cancelled,Credit Card
+928,76,2024-10-26,Pending,UPI
+929,461,2024-08-30,Delivered,UPI
+930,478,2025-01-15,Returned,Credit Card
+931,697,2024-07-22,Delivered,UPI
+932,530,2024-09-25,Delivered,UPI
+933,353,2025-05-31,Returned,Credit Card
+934,132,2024-08-01,Returned,Net Banking
+935,900,2025-02-23,Cancelled,Cash on Delivery
+936,849,2024-07-17,Returned,UPI
+937,799,2025-02-04,Delivered,Net Banking
+938,565,2025-03-08,Delivered,Net Banking
+939,656,2025-04-27,Returned,Credit Card
+940,602,2025-04-27,Returned,Net Banking
+941,187,2025-05-31,Cancelled,Credit Card
+942,787,2025-05-29,Cancelled,Net Banking
+943,990,2025-06-27,Cancelled,Cash on Delivery
+944,133,2025-04-10,Delivered,Net Banking
+945,444,2024-09-03,Returned,Net Banking
+946,515,2024-10-16,Pending,Net Banking
+947,933,2025-01-25,Returned,Credit Card
+948,890,2024-12-26,Returned,UPI
+949,57,2025-06-27,Cancelled,Credit Card
+950,852,2024-12-08,Pending,Cash on Delivery
+951,128,2025-06-09,Returned,Credit Card
+952,531,2024-08-31,Pending,UPI
+953,157,2024-09-26,Pending,Cash on Delivery
+954,312,2024-07-03,Returned,UPI
+955,169,2025-05-06,Cancelled,UPI
+956,166,2024-09-10,Cancelled,Cash on Delivery
+957,331,2025-02-16,Returned,UPI
+958,958,2025-03-30,Pending,Credit Card
+959,727,2024-07-26,Pending,UPI
+960,231,2024-07-23,Cancelled,Net Banking
+961,355,2025-04-23,Cancelled,Credit Card
+962,971,2024-08-05,Cancelled,UPI
+963,964,2024-10-09,Pending,Net Banking
+964,532,2025-05-10,Pending,Credit Card
+965,917,2025-04-27,Cancelled,Cash on Delivery
+966,291,2024-09-04,Cancelled,Credit Card
+967,867,2025-01-20,Pending,Cash on Delivery
+968,81,2024-08-14,Delivered,Credit Card
+969,257,2025-04-25,Pending,Net Banking
+970,202,2024-12-23,Returned,Cash on Delivery
+971,651,2025-01-27,Returned,Credit Card
+972,980,2025-04-18,Pending,Cash on Delivery
+973,565,2024-11-17,Returned,UPI
+974,282,2025-04-03,Delivered,Credit Card
+975,129,2024-09-04,Delivered,Credit Card
+976,641,2024-08-25,Delivered,Net Banking
+977,311,2025-01-20,Returned,Net Banking
+978,630,2025-06-24,Cancelled,Net Banking
+979,547,2024-09-07,Delivered,Cash on Delivery
+980,96,2024-09-30,Delivered,Credit Card
+981,515,2025-04-28,Cancelled,Cash on Delivery
+982,657,2024-06-30,Pending,Credit Card
+983,173,2024-10-31,Cancelled,Net Banking
+984,607,2025-05-25,Pending,Cash on Delivery
+985,965,2024-09-01,Pending,UPI
+986,595,2025-04-20,Cancelled,UPI
+987,158,2024-10-10,Delivered,Credit Card
+988,176,2025-01-12,Pending,Cash on Delivery
+989,675,2025-05-08,Cancelled,Cash on Delivery
+990,640,2024-07-05,Delivered,Credit Card
+991,738,2025-01-07,Pending,Credit Card
+992,924,2025-01-08,Returned,Net Banking
+993,620,2025-06-09,Delivered,Credit Card
+994,346,2024-07-19,Cancelled,Net Banking
+995,863,2024-11-26,Returned,Cash on Delivery
+996,947,2024-08-18,Cancelled,UPI
+997,578,2024-08-30,Pending,UPI
+998,43,2024-07-15,Delivered,Net Banking
+999,846,2024-12-26,Returned,Credit Card
+1000,885,2024-08-26,Returned,Credit Card
+1001,30,2025-05-21,Returned,UPI
+1002,84,2024-08-17,Pending,UPI
+1003,47,2024-09-28,Delivered,Net Banking
+1004,972,2025-05-27,Delivered,Net Banking
+1005,657,2025-02-18,Pending,Cash on Delivery
+1006,790,2025-05-17,Cancelled,UPI
+1007,591,2024-11-16,Returned,Credit Card
+1008,272,2025-02-04,Cancelled,Cash on Delivery
+1009,667,2025-04-27,Pending,Net Banking
+1010,216,2024-10-13,Cancelled,Net Banking
+1011,786,2024-12-23,Cancelled,Cash on Delivery
+1012,586,2024-09-30,Pending,UPI
+1013,427,2024-12-20,Returned,Cash on Delivery
+1014,633,2024-09-03,Cancelled,Credit Card
+1015,655,2025-03-29,Delivered,Cash on Delivery
+1016,32,2024-08-08,Cancelled,UPI
+1017,510,2025-03-31,Cancelled,Net Banking
+1018,911,2024-10-01,Delivered,Net Banking
+1019,643,2024-08-28,Returned,Net Banking
+1020,559,2025-03-02,Delivered,Net Banking
+1021,297,2025-02-17,Returned,Cash on Delivery
+1022,658,2025-04-16,Pending,Net Banking
+1023,980,2024-07-13,Pending,Credit Card
+1024,310,2024-07-23,Cancelled,Net Banking
+1025,495,2024-11-20,Cancelled,Cash on Delivery
+1026,251,2024-08-18,Pending,UPI
+1027,825,2024-06-27,Delivered,Net Banking
+1028,827,2024-10-16,Pending,Net Banking
+1029,702,2024-12-22,Returned,Credit Card
+1030,416,2025-01-18,Cancelled,Credit Card
+1031,305,2025-05-03,Delivered,Cash on Delivery
+1032,465,2025-01-03,Cancelled,Net Banking
+1033,75,2025-03-17,Pending,UPI
+1034,706,2025-04-15,Delivered,UPI
+1035,62,2024-11-27,Pending,Net Banking
+1036,162,2025-01-26,Returned,Credit Card
+1037,451,2025-01-23,Pending,Cash on Delivery
+1038,426,2025-04-05,Delivered,Net Banking
+1039,496,2024-11-30,Pending,Net Banking
+1040,476,2025-06-07,Cancelled,Credit Card
+1041,209,2025-01-16,Cancelled,Net Banking
+1042,349,2024-12-25,Delivered,Cash on Delivery
+1043,622,2025-03-05,Cancelled,UPI
+1044,148,2025-01-14,Returned,UPI
+1045,321,2024-11-11,Returned,Cash on Delivery
+1046,883,2025-04-28,Delivered,UPI
+1047,736,2025-02-17,Pending,Net Banking
+1048,327,2025-02-06,Cancelled,Cash on Delivery
+1049,752,2025-04-01,Cancelled,Credit Card
+1050,882,2025-05-18,Pending,Credit Card
+1051,354,2025-04-14,Pending,Credit Card
+1052,999,2024-12-01,Pending,Credit Card
+1053,409,2025-04-14,Pending,Net Banking
+1054,134,2024-10-02,Cancelled,Net Banking
+1055,779,2025-01-16,Returned,Credit Card
+1056,380,2025-06-25,Delivered,Net Banking
+1057,528,2024-12-02,Delivered,Cash on Delivery
+1058,576,2024-08-30,Pending,Cash on Delivery
+1059,109,2025-01-08,Returned,Cash on Delivery
+1060,327,2025-05-26,Cancelled,Credit Card
+1061,248,2025-01-07,Cancelled,Credit Card
+1062,478,2024-08-15,Delivered,Credit Card
+1063,126,2025-05-05,Pending,Net Banking
+1064,274,2024-07-11,Returned,UPI
+1065,461,2024-09-15,Delivered,UPI
+1066,254,2024-07-25,Returned,Net Banking
+1067,145,2025-02-14,Pending,Credit Card
+1068,100,2024-11-16,Pending,Credit Card
+1069,52,2025-05-19,Delivered,Net Banking
+1070,298,2024-10-20,Pending,Cash on Delivery
+1071,969,2024-08-10,Returned,Cash on Delivery
+1072,394,2025-02-16,Returned,Net Banking
+1073,885,2025-06-13,Delivered,Net Banking
+1074,631,2024-12-04,Pending,Cash on Delivery
+1075,429,2024-11-22,Cancelled,Cash on Delivery
+1076,255,2024-11-20,Pending,UPI
+1077,986,2024-10-21,Delivered,UPI
+1078,887,2024-11-19,Delivered,UPI
+1079,924,2024-07-06,Cancelled,Credit Card
+1080,164,2024-10-27,Delivered,Cash on Delivery
+1081,834,2025-01-02,Delivered,Credit Card
+1082,336,2024-09-12,Cancelled,Net Banking
+1083,957,2025-04-14,Cancelled,Credit Card
+1084,592,2024-07-03,Returned,Credit Card
+1085,739,2024-09-18,Delivered,Net Banking
+1086,321,2024-12-13,Cancelled,Credit Card
+1087,195,2025-04-24,Returned,Credit Card
+1088,782,2025-03-01,Delivered,UPI
+1089,164,2025-04-14,Cancelled,Net Banking
+1090,511,2024-08-23,Delivered,Net Banking
+1091,528,2024-12-18,Returned,Net Banking
+1092,479,2025-05-29,Pending,Net Banking
+1093,511,2025-02-11,Delivered,Cash on Delivery
+1094,901,2025-04-30,Delivered,Cash on Delivery
+1095,316,2025-04-17,Delivered,Net Banking
+1096,510,2025-04-13,Delivered,Cash on Delivery
+1097,24,2024-08-20,Cancelled,Credit Card
+1098,93,2025-03-06,Pending,UPI
+1099,968,2025-05-01,Delivered,UPI
+1100,403,2024-10-22,Cancelled,Credit Card
+1101,518,2024-11-27,Pending,UPI
+1102,469,2024-09-29,Returned,Credit Card
+1103,990,2024-08-21,Returned,Credit Card
+1104,247,2024-07-03,Returned,UPI
+1105,221,2025-06-11,Returned,Credit Card
+1106,598,2024-09-23,Returned,UPI
+1107,362,2025-06-12,Pending,Net Banking
+1108,50,2024-12-14,Delivered,UPI
+1109,52,2024-10-03,Returned,UPI
+1110,289,2025-01-02,Delivered,Net Banking
+1111,507,2024-11-29,Delivered,UPI
+1112,612,2024-12-25,Delivered,Credit Card
+1113,904,2025-03-30,Delivered,Cash on Delivery
+1114,864,2024-12-24,Delivered,Net Banking
+1115,670,2024-11-18,Pending,UPI
+1116,689,2025-06-04,Delivered,Net Banking
+1117,482,2024-09-14,Pending,Net Banking
+1118,293,2024-12-23,Pending,Credit Card
+1119,550,2024-08-16,Delivered,Credit Card
+1120,9,2024-12-05,Pending,UPI
+1121,868,2024-07-16,Returned,UPI
+1122,111,2024-09-30,Returned,Net Banking
+1123,442,2024-08-22,Returned,Net Banking
+1124,138,2025-06-10,Delivered,Net Banking
+1125,904,2025-03-02,Returned,Credit Card
+1126,271,2025-06-20,Cancelled,Net Banking
+1127,745,2024-08-05,Cancelled,UPI
+1128,375,2024-10-19,Cancelled,UPI
+1129,783,2024-11-19,Returned,Cash on Delivery
+1130,413,2024-07-17,Pending,Net Banking
+1131,375,2024-11-10,Cancelled,Credit Card
+1132,47,2024-12-24,Pending,Cash on Delivery
+1133,411,2025-06-15,Pending,Credit Card
+1134,53,2024-11-24,Delivered,Credit Card
+1135,584,2025-06-06,Cancelled,Net Banking
+1136,576,2025-03-07,Delivered,Net Banking
+1137,200,2025-05-31,Delivered,Net Banking
+1138,372,2024-12-12,Delivered,Cash on Delivery
+1139,567,2024-07-27,Returned,Credit Card
+1140,296,2025-02-14,Delivered,Net Banking
+1141,76,2024-10-19,Pending,Net Banking
+1142,396,2024-11-11,Cancelled,Net Banking
+1143,517,2025-05-11,Pending,Net Banking
+1144,462,2025-01-12,Cancelled,UPI
+1145,783,2025-01-27,Returned,Credit Card
+1146,564,2024-12-29,Cancelled,Credit Card
+1147,287,2024-07-12,Cancelled,Net Banking
+1148,846,2025-06-24,Cancelled,Cash on Delivery
+1149,639,2025-05-30,Cancelled,Credit Card
+1150,697,2025-05-22,Pending,Cash on Delivery
+1151,626,2024-12-30,Cancelled,Net Banking
+1152,122,2024-07-23,Delivered,Net Banking
+1153,132,2024-11-10,Cancelled,Credit Card
+1154,999,2024-11-02,Delivered,Net Banking
+1155,100,2024-09-10,Returned,Cash on Delivery
+1156,404,2024-10-25,Delivered,Net Banking
+1157,383,2025-06-20,Pending,Net Banking
+1158,814,2025-01-09,Delivered,Credit Card
+1159,348,2024-08-30,Pending,UPI
+1160,572,2024-07-01,Delivered,Cash on Delivery
+1161,962,2024-08-05,Cancelled,UPI
+1162,375,2024-08-22,Returned,Net Banking
+1163,774,2025-04-12,Pending,Cash on Delivery
+1164,148,2025-03-30,Pending,Net Banking
+1165,204,2025-01-31,Cancelled,UPI
+1166,617,2024-10-09,Cancelled,UPI
+1167,522,2024-07-20,Delivered,Cash on Delivery
+1168,412,2024-07-06,Pending,Net Banking
+1169,513,2025-01-10,Delivered,UPI
+1170,42,2024-09-19,Cancelled,Cash on Delivery
+1171,47,2025-02-26,Pending,Net Banking
+1172,40,2025-01-15,Returned,Net Banking
+1173,141,2024-11-18,Returned,Cash on Delivery
+1174,731,2024-07-06,Pending,Net Banking
+1175,342,2024-12-18,Pending,UPI
+1176,824,2024-11-30,Cancelled,UPI
+1177,486,2024-11-03,Pending,Cash on Delivery
+1178,532,2025-05-03,Pending,Credit Card
+1179,468,2025-02-20,Returned,Net Banking
+1180,153,2024-12-22,Cancelled,UPI
+1181,621,2024-11-08,Delivered,UPI
+1182,915,2025-02-23,Pending,UPI
+1183,528,2024-10-31,Cancelled,UPI
+1184,144,2024-10-15,Cancelled,Net Banking
+1185,336,2024-11-16,Returned,Credit Card
+1186,954,2024-07-16,Pending,Net Banking
+1187,628,2025-05-04,Pending,Net Banking
+1188,327,2025-01-13,Cancelled,Cash on Delivery
+1189,167,2025-02-09,Pending,UPI
+1190,403,2024-08-13,Returned,UPI
+1191,632,2025-06-05,Returned,Credit Card
+1192,758,2024-12-14,Returned,Credit Card
+1193,863,2025-04-17,Pending,Cash on Delivery
+1194,307,2025-01-02,Pending,Cash on Delivery
+1195,608,2024-12-12,Returned,Cash on Delivery
+1196,345,2025-04-19,Delivered,UPI
+1197,520,2025-01-12,Cancelled,UPI
+1198,849,2024-07-11,Delivered,Credit Card
+1199,522,2025-03-12,Pending,Credit Card
+1200,546,2025-04-25,Cancelled,Cash on Delivery
+1201,502,2025-01-25,Cancelled,Net Banking
+1202,726,2025-04-05,Pending,Credit Card
+1203,577,2025-04-13,Delivered,UPI
+1204,307,2025-02-01,Delivered,Credit Card
+1205,487,2025-01-09,Delivered,UPI
+1206,836,2024-07-23,Delivered,Net Banking
+1207,18,2024-08-25,Returned,Cash on Delivery
+1208,378,2025-06-24,Cancelled,Cash on Delivery
+1209,340,2025-05-13,Delivered,Cash on Delivery
+1210,690,2024-11-20,Pending,Credit Card
+1211,113,2024-11-02,Returned,Cash on Delivery
+1212,427,2025-03-10,Cancelled,UPI
+1213,598,2025-03-31,Pending,Credit Card
+1214,316,2024-12-14,Returned,Credit Card
+1215,816,2025-04-07,Cancelled,Net Banking
+1216,921,2025-04-03,Pending,Net Banking
+1217,743,2025-02-28,Cancelled,Credit Card
+1218,894,2024-10-08,Returned,Credit Card
+1219,705,2024-08-21,Delivered,Credit Card
+1220,645,2024-08-21,Returned,Credit Card
+1221,28,2025-04-18,Pending,Credit Card
+1222,612,2025-06-17,Delivered,UPI
+1223,486,2024-09-11,Cancelled,Credit Card
+1224,272,2024-08-02,Cancelled,UPI
+1225,991,2025-02-21,Cancelled,Cash on Delivery
+1226,672,2024-11-23,Returned,UPI
+1227,802,2024-10-12,Cancelled,Cash on Delivery
+1228,996,2024-11-27,Cancelled,Net Banking
+1229,795,2024-09-20,Cancelled,Net Banking
+1230,593,2024-07-13,Returned,Credit Card
+1231,592,2024-07-14,Pending,UPI
+1232,234,2024-10-22,Delivered,Cash on Delivery
+1233,739,2024-07-01,Cancelled,Cash on Delivery
+1234,53,2024-08-17,Returned,UPI
+1235,598,2024-09-10,Cancelled,Credit Card
+1236,492,2024-12-06,Delivered,UPI
+1237,175,2025-02-03,Pending,Net Banking
+1238,537,2024-09-10,Pending,Net Banking
+1239,645,2024-12-06,Cancelled,Credit Card
+1240,739,2025-05-03,Delivered,UPI
+1241,635,2025-05-13,Cancelled,Net Banking
+1242,794,2025-06-04,Pending,Cash on Delivery
+1243,862,2024-08-24,Returned,Cash on Delivery
+1244,390,2024-12-09,Returned,UPI
+1245,152,2025-01-25,Returned,Credit Card
+1246,842,2025-02-02,Delivered,Cash on Delivery
+1247,698,2024-10-04,Delivered,Cash on Delivery
+1248,249,2025-06-17,Pending,Net Banking
+1249,33,2024-09-16,Delivered,Cash on Delivery
+1250,587,2024-06-27,Pending,UPI
+1251,971,2024-07-22,Pending,UPI
+1252,718,2024-08-29,Cancelled,Net Banking
+1253,113,2025-05-26,Returned,UPI
+1254,196,2024-07-11,Returned,UPI
+1255,20,2024-10-08,Pending,Net Banking
+1256,452,2025-04-05,Delivered,Net Banking
+1257,322,2024-12-31,Pending,Net Banking
+1258,429,2025-04-28,Returned,Net Banking
+1259,156,2024-07-22,Cancelled,Cash on Delivery
+1260,423,2024-09-20,Returned,Credit Card
+1261,708,2024-12-25,Pending,Net Banking
+1262,209,2025-06-17,Pending,UPI
+1263,421,2024-08-30,Returned,Credit Card
+1264,514,2025-06-21,Returned,Credit Card
+1265,794,2025-03-15,Delivered,Credit Card
+1266,627,2025-01-04,Cancelled,Cash on Delivery
+1267,943,2024-08-10,Returned,Cash on Delivery
+1268,483,2024-07-28,Cancelled,Net Banking
+1269,894,2025-03-13,Cancelled,UPI
+1270,869,2024-12-22,Delivered,Net Banking
+1271,754,2025-05-08,Pending,Credit Card
+1272,745,2025-06-11,Cancelled,Net Banking
+1273,64,2024-11-07,Cancelled,Credit Card
+1274,723,2025-02-21,Cancelled,UPI
+1275,142,2025-04-05,Cancelled,Credit Card
+1276,532,2024-11-18,Pending,Cash on Delivery
+1277,213,2025-05-23,Delivered,Net Banking
+1278,575,2024-12-26,Cancelled,Net Banking
+1279,333,2024-10-05,Returned,Cash on Delivery
+1280,679,2025-02-06,Pending,Cash on Delivery
+1281,490,2025-01-29,Delivered,Cash on Delivery
+1282,539,2025-01-25,Returned,Credit Card
+1283,386,2025-06-07,Returned,Cash on Delivery
+1284,322,2025-06-12,Returned,UPI
+1285,980,2025-05-09,Cancelled,Net Banking
+1286,178,2025-04-11,Cancelled,Net Banking
+1287,471,2024-11-02,Returned,UPI
+1288,935,2025-02-27,Delivered,Net Banking
+1289,546,2025-03-12,Cancelled,Cash on Delivery
+1290,351,2024-10-31,Delivered,Net Banking
+1291,560,2025-01-17,Cancelled,UPI
+1292,363,2024-08-26,Cancelled,Cash on Delivery
+1293,693,2025-03-13,Cancelled,Credit Card
+1294,791,2025-03-18,Delivered,Credit Card
+1295,889,2025-05-17,Cancelled,Cash on Delivery
+1296,739,2025-04-01,Delivered,Net Banking
+1297,698,2025-02-11,Cancelled,UPI
+1298,659,2025-01-14,Pending,Cash on Delivery
+1299,823,2025-03-19,Cancelled,UPI
+1300,710,2024-10-13,Returned,Credit Card
+1301,271,2025-05-06,Delivered,Cash on Delivery
+1302,625,2025-02-12,Pending,Cash on Delivery
+1303,496,2025-04-25,Delivered,UPI
+1304,197,2025-06-10,Cancelled,Credit Card
+1305,981,2024-09-30,Returned,Credit Card
+1306,253,2024-09-22,Returned,Cash on Delivery
+1307,286,2025-05-09,Returned,UPI
+1308,572,2024-07-05,Cancelled,Cash on Delivery
+1309,306,2024-12-12,Cancelled,Net Banking
+1310,231,2024-12-31,Returned,Credit Card
+1311,965,2024-10-10,Cancelled,Credit Card
+1312,997,2024-11-01,Cancelled,Cash on Delivery
+1313,305,2025-06-27,Pending,Cash on Delivery
+1314,790,2025-01-10,Cancelled,Cash on Delivery
+1315,296,2024-10-21,Pending,Credit Card
+1316,722,2025-01-06,Returned,Credit Card
+1317,213,2025-04-04,Delivered,Credit Card
+1318,707,2024-12-01,Cancelled,Net Banking
+1319,722,2024-07-16,Returned,Cash on Delivery
+1320,501,2025-02-11,Returned,Credit Card
+1321,325,2024-10-21,Cancelled,Net Banking
+1322,492,2025-05-04,Delivered,Cash on Delivery
+1323,358,2025-05-28,Delivered,UPI
+1324,574,2024-10-05,Cancelled,UPI
+1325,957,2024-08-07,Returned,Cash on Delivery
+1326,957,2025-05-13,Cancelled,Cash on Delivery
+1327,815,2024-08-23,Delivered,Cash on Delivery
+1328,739,2025-01-28,Cancelled,UPI
+1329,281,2024-09-21,Returned,Net Banking
+1330,295,2025-05-20,Delivered,UPI
+1331,125,2025-04-27,Delivered,Credit Card
+1332,588,2024-09-20,Delivered,Cash on Delivery
+1333,693,2025-06-04,Returned,UPI
+1334,557,2024-10-01,Cancelled,Cash on Delivery
+1335,389,2024-12-24,Delivered,Net Banking
+1336,918,2025-06-13,Returned,Credit Card
+1337,405,2024-08-25,Returned,UPI
+1338,839,2025-06-21,Pending,Net Banking
+1339,354,2024-08-04,Delivered,Net Banking
+1340,978,2025-03-24,Returned,Credit Card
+1341,792,2025-01-23,Cancelled,Credit Card
+1342,824,2025-01-09,Returned,Credit Card
+1343,150,2024-11-14,Returned,Net Banking
+1344,298,2024-12-04,Pending,UPI
+1345,44,2025-04-11,Delivered,Net Banking
+1346,295,2024-11-29,Returned,UPI
+1347,979,2024-12-06,Cancelled,Net Banking
+1348,732,2025-02-02,Pending,Credit Card
+1349,81,2024-11-02,Returned,Cash on Delivery
+1350,355,2024-10-21,Cancelled,Net Banking
+1351,947,2024-07-28,Delivered,Net Banking
+1352,453,2024-09-29,Pending,Cash on Delivery
+1353,672,2024-08-29,Returned,Net Banking
+1354,263,2025-02-23,Pending,Net Banking
+1355,766,2024-12-30,Cancelled,Net Banking
+1356,491,2025-06-22,Delivered,Net Banking
+1357,220,2025-03-11,Delivered,Net Banking
+1358,207,2024-07-22,Delivered,UPI
+1359,848,2025-04-23,Delivered,UPI
+1360,552,2024-10-26,Returned,UPI
+1361,278,2025-06-21,Cancelled,Net Banking
+1362,956,2025-06-07,Pending,Net Banking
+1363,576,2024-07-19,Returned,UPI
+1364,713,2024-12-13,Pending,Credit Card
+1365,279,2024-12-01,Delivered,UPI
+1366,141,2025-05-09,Cancelled,Net Banking
+1367,112,2024-12-11,Returned,Net Banking
+1368,631,2024-08-25,Pending,Credit Card
+1369,759,2024-12-04,Pending,UPI
+1370,601,2024-12-27,Returned,Cash on Delivery
+1371,246,2024-07-08,Pending,Credit Card
+1372,249,2024-11-03,Pending,Net Banking
+1373,52,2025-06-26,Returned,Credit Card
+1374,686,2024-11-17,Cancelled,Credit Card
+1375,927,2024-08-11,Returned,Cash on Delivery
+1376,544,2024-10-24,Returned,Cash on Delivery
+1377,232,2024-09-26,Cancelled,Credit Card
+1378,654,2025-01-01,Pending,UPI
+1379,239,2025-06-03,Returned,Credit Card
+1380,54,2025-01-04,Pending,Cash on Delivery
+1381,103,2025-06-22,Pending,Cash on Delivery
+1382,424,2024-11-27,Pending,Cash on Delivery
+1383,339,2025-02-10,Returned,Cash on Delivery
+1384,735,2024-09-18,Cancelled,Cash on Delivery
+1385,484,2024-12-01,Delivered,Net Banking
+1386,103,2024-12-11,Cancelled,Credit Card
+1387,698,2025-05-22,Returned,UPI
+1388,790,2024-09-26,Cancelled,UPI
+1389,141,2024-10-16,Delivered,Net Banking
+1390,6,2024-09-29,Cancelled,Credit Card
+1391,988,2025-02-19,Returned,Cash on Delivery
+1392,564,2025-05-05,Pending,Cash on Delivery
+1393,952,2024-08-30,Delivered,UPI
+1394,162,2024-11-04,Cancelled,UPI
+1395,417,2024-08-27,Returned,Net Banking
+1396,669,2025-02-14,Delivered,Credit Card
+1397,958,2024-11-01,Delivered,Credit Card
+1398,902,2025-02-12,Cancelled,Cash on Delivery
+1399,900,2024-11-20,Returned,Credit Card
+1400,488,2025-05-24,Returned,Credit Card
+1401,489,2024-07-29,Delivered,Net Banking
+1402,667,2024-08-05,Delivered,Net Banking
+1403,205,2024-07-28,Pending,Cash on Delivery
+1404,775,2024-07-28,Cancelled,Net Banking
+1405,988,2025-05-02,Pending,Cash on Delivery
+1406,295,2025-04-09,Delivered,Net Banking
+1407,329,2024-06-30,Delivered,Net Banking
+1408,293,2024-08-24,Returned,UPI
+1409,662,2025-01-22,Returned,UPI
+1410,61,2024-12-10,Pending,Net Banking
+1411,930,2025-01-04,Delivered,Net Banking
+1412,788,2025-06-10,Cancelled,Net Banking
+1413,92,2024-08-01,Returned,UPI
+1414,668,2025-06-24,Returned,Cash on Delivery
+1415,588,2025-05-01,Delivered,Credit Card
+1416,238,2025-05-06,Cancelled,Net Banking
+1417,548,2025-03-24,Pending,Net Banking
+1418,757,2025-03-05,Cancelled,UPI
+1419,741,2024-08-24,Delivered,Net Banking
+1420,871,2024-07-16,Cancelled,Cash on Delivery
+1421,960,2024-06-27,Cancelled,Credit Card
+1422,39,2024-12-26,Delivered,Net Banking
+1423,936,2024-09-03,Pending,Cash on Delivery
+1424,944,2024-07-09,Cancelled,Credit Card
+1425,180,2024-08-17,Delivered,UPI
+1426,428,2024-10-18,Cancelled,Credit Card
+1427,904,2025-05-20,Delivered,Cash on Delivery
+1428,858,2024-11-16,Pending,Credit Card
+1429,181,2025-03-17,Returned,Credit Card
+1430,957,2025-03-20,Pending,UPI
+1431,942,2025-06-18,Returned,Credit Card
+1432,38,2025-05-14,Returned,UPI
+1433,857,2025-03-25,Cancelled,Net Banking
+1434,407,2024-11-12,Delivered,Credit Card
+1435,807,2025-03-12,Delivered,Credit Card
+1436,508,2025-02-04,Delivered,UPI
+1437,191,2024-07-30,Pending,Credit Card
+1438,960,2024-07-12,Pending,Cash on Delivery
+1439,767,2024-08-30,Pending,UPI
+1440,986,2025-06-08,Pending,UPI
+1441,894,2024-10-25,Cancelled,Net Banking
+1442,949,2024-11-02,Cancelled,Credit Card
+1443,297,2024-08-04,Returned,Cash on Delivery
+1444,898,2024-07-12,Returned,Net Banking
+1445,39,2025-02-08,Delivered,Credit Card
+1446,10,2024-07-28,Pending,Net Banking
+1447,306,2024-07-12,Cancelled,Credit Card
+1448,582,2025-02-20,Returned,Cash on Delivery
+1449,618,2024-06-27,Delivered,Net Banking
+1450,110,2025-05-12,Delivered,UPI
+1451,951,2025-06-20,Pending,Net Banking
+1452,344,2024-09-09,Pending,Credit Card
+1453,292,2025-04-29,Delivered,Cash on Delivery
+1454,466,2024-08-31,Pending,Net Banking
+1455,657,2025-06-10,Pending,Cash on Delivery
+1456,557,2024-11-25,Returned,Credit Card
+1457,537,2025-05-13,Returned,Credit Card
+1458,506,2025-01-03,Returned,Credit Card
+1459,911,2024-08-07,Cancelled,UPI
+1460,962,2024-10-08,Pending,Cash on Delivery
+1461,138,2025-02-12,Returned,UPI
+1462,872,2024-10-18,Returned,UPI
+1463,517,2025-02-21,Delivered,Cash on Delivery
+1464,480,2025-05-18,Returned,Credit Card
+1465,280,2025-01-17,Delivered,UPI
+1466,198,2024-07-24,Pending,Cash on Delivery
+1467,829,2025-05-16,Delivered,Net Banking
+1468,116,2025-02-19,Returned,UPI
+1469,339,2024-10-15,Cancelled,Credit Card
+1470,167,2024-08-19,Cancelled,Cash on Delivery
+1471,749,2024-07-22,Pending,UPI
+1472,470,2024-12-23,Returned,Credit Card
+1473,664,2025-02-17,Pending,Credit Card
+1474,264,2025-05-24,Delivered,Cash on Delivery
+1475,736,2024-10-05,Pending,Net Banking
+1476,191,2024-08-27,Cancelled,Credit Card
+1477,15,2025-03-03,Pending,Cash on Delivery
+1478,755,2025-04-24,Delivered,UPI
+1479,346,2025-03-25,Returned,Net Banking
+1480,810,2025-01-12,Pending,Cash on Delivery
+1481,303,2024-08-03,Delivered,Cash on Delivery
+1482,582,2025-01-05,Cancelled,Net Banking
+1483,691,2025-02-17,Returned,Credit Card
+1484,776,2024-09-21,Pending,Credit Card
+1485,198,2025-03-21,Pending,UPI
+1486,180,2024-10-15,Cancelled,UPI
+1487,626,2024-07-09,Pending,UPI
+1488,877,2024-11-26,Cancelled,Net Banking
+1489,655,2025-05-23,Cancelled,Net Banking
+1490,919,2024-11-05,Returned,Credit Card
+1491,416,2025-03-12,Cancelled,Cash on Delivery
+1492,847,2024-08-29,Cancelled,Credit Card
+1493,438,2025-03-23,Cancelled,Cash on Delivery
+1494,528,2024-12-27,Pending,Net Banking
+1495,336,2025-05-07,Cancelled,Net Banking
+1496,89,2024-12-19,Cancelled,Credit Card
+1497,411,2024-11-13,Cancelled,Net Banking
+1498,686,2025-01-10,Cancelled,Credit Card
+1499,98,2024-10-23,Pending,Net Banking
+1500,190,2024-10-19,Cancelled,UPI
+1501,144,2025-03-07,Delivered,Credit Card
+1502,489,2025-03-28,Delivered,Cash on Delivery
+1503,332,2025-05-09,Delivered,Credit Card
+1504,959,2024-11-29,Returned,UPI
+1505,255,2024-12-06,Delivered,UPI
+1506,7,2025-05-06,Delivered,Cash on Delivery
+1507,268,2025-06-23,Returned,Net Banking
+1508,393,2024-09-26,Pending,Net Banking
+1509,242,2025-05-01,Pending,Credit Card
+1510,458,2025-05-21,Returned,UPI
+1511,772,2024-10-25,Pending,UPI
+1512,274,2025-03-12,Returned,Cash on Delivery
+1513,977,2024-10-31,Cancelled,UPI
+1514,338,2024-09-16,Pending,UPI
+1515,310,2024-09-28,Returned,Net Banking
+1516,597,2024-12-23,Cancelled,Net Banking
+1517,741,2024-08-23,Cancelled,Credit Card
+1518,587,2025-03-27,Delivered,Credit Card
+1519,12,2024-08-26,Returned,Net Banking
+1520,268,2024-07-11,Returned,Cash on Delivery
+1521,670,2024-07-27,Delivered,UPI
+1522,369,2024-07-19,Pending,Credit Card
+1523,710,2025-02-10,Returned,Credit Card
+1524,242,2025-06-01,Cancelled,Net Banking
+1525,64,2024-08-11,Returned,Cash on Delivery
+1526,684,2024-08-23,Delivered,Cash on Delivery
+1527,122,2024-08-07,Returned,Net Banking
+1528,477,2024-12-18,Pending,Cash on Delivery
+1529,315,2024-08-14,Delivered,UPI
+1530,164,2024-08-23,Delivered,Cash on Delivery
+1531,416,2025-04-03,Cancelled,Credit Card
+1532,703,2024-07-25,Returned,UPI
+1533,515,2024-10-14,Delivered,Credit Card
+1534,946,2025-04-22,Pending,Cash on Delivery
+1535,917,2024-11-03,Pending,Credit Card
+1536,910,2025-03-21,Pending,Net Banking
+1537,721,2024-10-29,Cancelled,Credit Card
+1538,789,2025-02-06,Pending,UPI
+1539,319,2024-09-27,Cancelled,Cash on Delivery
+1540,707,2025-04-02,Pending,Net Banking
+1541,121,2024-12-31,Returned,UPI
+1542,655,2024-12-13,Pending,Cash on Delivery
+1543,939,2024-12-03,Pending,Cash on Delivery
+1544,964,2024-08-13,Cancelled,Cash on Delivery
+1545,303,2025-06-23,Returned,Net Banking
+1546,377,2025-03-04,Returned,Cash on Delivery
+1547,630,2025-03-13,Cancelled,UPI
+1548,227,2025-03-14,Returned,Cash on Delivery
+1549,225,2025-01-27,Pending,Cash on Delivery
+1550,981,2025-04-06,Pending,UPI
+1551,137,2025-02-10,Returned,Net Banking
+1552,490,2024-10-22,Pending,Cash on Delivery
+1553,157,2025-06-26,Returned,Credit Card
+1554,466,2025-03-29,Cancelled,UPI
+1555,766,2024-09-16,Cancelled,Credit Card
+1556,621,2025-06-09,Cancelled,Net Banking
+1557,383,2024-12-27,Delivered,Credit Card
+1558,426,2025-03-08,Pending,Credit Card
+1559,719,2024-07-10,Cancelled,UPI
+1560,563,2024-11-15,Returned,Net Banking
+1561,935,2024-08-26,Returned,Net Banking
+1562,483,2024-11-25,Cancelled,Net Banking
+1563,776,2024-09-09,Cancelled,Credit Card
+1564,551,2024-11-08,Cancelled,Credit Card
+1565,822,2024-07-22,Returned,Credit Card
+1566,681,2024-07-15,Delivered,Net Banking
+1567,846,2024-07-09,Cancelled,Credit Card
+1568,224,2025-05-19,Returned,Cash on Delivery
+1569,781,2025-05-24,Returned,Net Banking
+1570,254,2025-05-05,Cancelled,Cash on Delivery
+1571,697,2024-10-02,Pending,Net Banking
+1572,773,2024-11-25,Returned,UPI
+1573,611,2024-09-07,Pending,Credit Card
+1574,895,2025-05-08,Pending,Credit Card
+1575,807,2025-01-06,Delivered,Net Banking
+1576,84,2024-12-24,Returned,Cash on Delivery
+1577,539,2025-03-09,Delivered,UPI
+1578,458,2024-11-28,Cancelled,Net Banking
+1579,541,2025-04-27,Delivered,Credit Card
+1580,721,2025-03-29,Cancelled,UPI
+1581,371,2025-05-27,Pending,Credit Card
+1582,80,2024-10-30,Returned,Cash on Delivery
+1583,940,2024-12-18,Delivered,Cash on Delivery
+1584,578,2024-08-17,Returned,UPI
+1585,115,2025-05-09,Pending,Credit Card
+1586,64,2024-10-31,Pending,Cash on Delivery
+1587,849,2025-04-12,Pending,UPI
+1588,561,2025-03-28,Pending,UPI
+1589,925,2024-12-08,Pending,Net Banking
+1590,518,2025-03-09,Pending,Cash on Delivery
+1591,208,2024-10-27,Delivered,Credit Card
+1592,587,2025-06-17,Returned,Cash on Delivery
+1593,550,2025-04-14,Delivered,Net Banking
+1594,154,2025-02-02,Pending,UPI
+1595,169,2025-05-30,Cancelled,Credit Card
+1596,336,2025-03-25,Cancelled,UPI
+1597,875,2024-09-06,Pending,Net Banking
+1598,533,2024-06-29,Pending,Credit Card
+1599,453,2025-05-30,Pending,Cash on Delivery
+1600,120,2025-04-27,Returned,Net Banking
+1601,697,2024-08-29,Returned,UPI
+1602,211,2024-10-02,Delivered,UPI
+1603,735,2024-12-05,Returned,UPI
+1604,598,2024-08-02,Pending,Credit Card
+1605,501,2025-01-02,Returned,UPI
+1606,94,2025-06-02,Cancelled,Credit Card
+1607,921,2024-11-03,Cancelled,UPI
+1608,523,2024-08-23,Pending,Cash on Delivery
+1609,457,2024-07-13,Returned,UPI
+1610,829,2025-06-05,Returned,Cash on Delivery
+1611,57,2024-08-20,Delivered,UPI
+1612,465,2024-09-28,Delivered,Credit Card
+1613,136,2025-01-12,Cancelled,Cash on Delivery
+1614,526,2025-02-16,Pending,Net Banking
+1615,426,2025-01-05,Cancelled,Credit Card
+1616,468,2024-10-12,Pending,Net Banking
+1617,578,2025-06-14,Pending,Credit Card
+1618,60,2024-09-13,Pending,Cash on Delivery
+1619,573,2025-04-02,Pending,Net Banking
+1620,474,2024-09-05,Returned,Net Banking
+1621,689,2024-12-06,Pending,Cash on Delivery
+1622,827,2024-07-11,Returned,Credit Card
+1623,316,2025-04-22,Pending,Net Banking
+1624,741,2024-06-30,Returned,Net Banking
+1625,23,2025-02-27,Returned,Cash on Delivery
+1626,406,2024-11-14,Cancelled,Credit Card
+1627,261,2025-03-30,Cancelled,UPI
+1628,837,2024-11-07,Delivered,Credit Card
+1629,4,2025-05-03,Cancelled,Cash on Delivery
+1630,764,2025-02-20,Cancelled,Net Banking
+1631,224,2024-11-18,Pending,Net Banking
+1632,593,2024-11-04,Delivered,Cash on Delivery
+1633,75,2024-06-28,Cancelled,Credit Card
+1634,47,2024-08-06,Cancelled,Net Banking
+1635,434,2024-12-31,Returned,UPI
+1636,353,2025-04-22,Delivered,Cash on Delivery
+1637,718,2025-05-13,Delivered,Credit Card
+1638,66,2025-01-07,Delivered,Credit Card
+1639,555,2024-09-13,Returned,UPI
+1640,62,2024-09-16,Delivered,Net Banking
+1641,958,2024-08-23,Delivered,Credit Card
+1642,916,2024-11-03,Returned,UPI
+1643,71,2025-03-18,Delivered,UPI
+1644,957,2025-03-09,Delivered,UPI
+1645,484,2025-05-26,Pending,Cash on Delivery
+1646,33,2025-04-09,Cancelled,Cash on Delivery
+1647,294,2025-04-11,Delivered,Credit Card
+1648,419,2025-01-09,Returned,Credit Card
+1649,185,2024-10-11,Pending,Credit Card
+1650,788,2025-01-19,Cancelled,Net Banking
+1651,139,2024-11-25,Cancelled,Net Banking
+1652,785,2025-06-07,Pending,Credit Card
+1653,657,2025-01-18,Returned,Cash on Delivery
+1654,747,2025-02-11,Cancelled,Cash on Delivery
+1655,662,2025-02-19,Cancelled,UPI
+1656,987,2025-06-21,Cancelled,Credit Card
+1657,431,2025-02-19,Delivered,Net Banking
+1658,384,2024-09-11,Delivered,UPI
+1659,913,2024-12-12,Pending,Cash on Delivery
+1660,392,2025-04-21,Pending,Credit Card
+1661,460,2025-04-06,Returned,Cash on Delivery
+1662,891,2025-05-03,Returned,UPI
+1663,940,2024-07-12,Pending,Credit Card
+1664,929,2024-12-20,Returned,Net Banking
+1665,387,2025-04-02,Cancelled,Credit Card
+1666,385,2025-02-11,Cancelled,Net Banking
+1667,83,2025-01-25,Returned,Credit Card
+1668,700,2024-10-17,Returned,Credit Card
+1669,988,2025-01-22,Pending,Credit Card
+1670,678,2025-04-16,Pending,Credit Card
+1671,896,2024-12-21,Returned,Net Banking
+1672,553,2024-07-14,Cancelled,Cash on Delivery
+1673,137,2024-10-15,Delivered,Credit Card
+1674,670,2024-11-03,Returned,UPI
+1675,881,2024-07-03,Pending,Credit Card
+1676,357,2024-12-02,Pending,Net Banking
+1677,122,2025-02-10,Returned,Credit Card
+1678,183,2025-02-25,Pending,Cash on Delivery
+1679,551,2025-04-30,Cancelled,Net Banking
+1680,403,2024-07-21,Pending,Credit Card
+1681,542,2024-12-28,Delivered,Credit Card
+1682,131,2025-05-15,Delivered,Credit Card
+1683,746,2025-06-03,Cancelled,Credit Card
+1684,229,2024-12-06,Pending,Cash on Delivery
+1685,855,2025-06-22,Pending,Net Banking
+1686,4,2024-12-24,Returned,Net Banking
+1687,775,2025-06-17,Delivered,Credit Card
+1688,24,2025-06-05,Returned,Net Banking
+1689,306,2025-02-18,Returned,UPI
+1690,475,2025-02-04,Pending,Credit Card
+1691,690,2024-09-24,Delivered,Net Banking
+1692,737,2025-06-20,Returned,Net Banking
+1693,558,2024-10-27,Pending,Net Banking
+1694,435,2025-05-17,Cancelled,Net Banking
+1695,545,2025-02-11,Delivered,Credit Card
+1696,389,2024-09-21,Pending,Cash on Delivery
+1697,844,2024-12-18,Cancelled,Credit Card
+1698,236,2024-10-07,Returned,Net Banking
+1699,254,2024-10-21,Returned,Cash on Delivery
+1700,472,2025-06-08,Returned,UPI
+1701,355,2025-03-07,Cancelled,Credit Card
+1702,159,2025-05-23,Cancelled,Credit Card
+1703,283,2024-07-12,Returned,Credit Card
+1704,194,2025-05-10,Returned,Credit Card
+1705,960,2024-09-24,Cancelled,UPI
+1706,897,2025-03-13,Pending,UPI
+1707,743,2025-06-13,Delivered,Cash on Delivery
+1708,784,2025-02-07,Returned,Cash on Delivery
+1709,116,2024-10-03,Cancelled,Net Banking
+1710,33,2024-11-27,Pending,Net Banking
+1711,829,2024-10-08,Pending,Net Banking
+1712,677,2024-06-28,Pending,UPI
+1713,430,2025-01-19,Returned,UPI
+1714,630,2024-09-24,Cancelled,UPI
+1715,785,2024-07-12,Delivered,Credit Card
+1716,959,2024-09-21,Cancelled,Credit Card
+1717,905,2025-05-12,Cancelled,UPI
+1718,911,2024-12-18,Pending,Cash on Delivery
+1719,17,2024-09-27,Delivered,Net Banking
+1720,247,2024-11-28,Returned,Cash on Delivery
+1721,212,2024-06-27,Returned,Cash on Delivery
+1722,69,2024-12-10,Pending,UPI
+1723,104,2024-07-15,Returned,UPI
+1724,609,2024-07-26,Cancelled,Net Banking
+1725,35,2025-05-04,Pending,Cash on Delivery
+1726,458,2025-05-04,Delivered,Cash on Delivery
+1727,613,2024-10-11,Cancelled,Cash on Delivery
+1728,689,2025-01-20,Delivered,Cash on Delivery
+1729,721,2025-05-09,Delivered,Credit Card
+1730,894,2025-06-11,Cancelled,UPI
+1731,50,2025-01-25,Delivered,Credit Card
+1732,251,2025-06-27,Pending,UPI
+1733,759,2024-12-05,Pending,Credit Card
+1734,46,2024-07-03,Cancelled,Net Banking
+1735,412,2025-01-07,Returned,Cash on Delivery
+1736,450,2025-05-30,Delivered,UPI
+1737,240,2025-04-07,Cancelled,UPI
+1738,553,2025-05-01,Delivered,UPI
+1739,223,2025-04-20,Cancelled,Credit Card
+1740,773,2025-03-02,Delivered,Cash on Delivery
+1741,885,2025-04-29,Returned,UPI
+1742,795,2024-10-23,Cancelled,Net Banking
+1743,58,2025-04-21,Pending,Net Banking
+1744,144,2025-02-15,Returned,Cash on Delivery
+1745,516,2025-03-11,Pending,Cash on Delivery
+1746,297,2024-07-16,Returned,Cash on Delivery
+1747,240,2025-01-05,Pending,Net Banking
+1748,836,2025-02-07,Returned,Cash on Delivery
+1749,939,2024-09-17,Delivered,UPI
+1750,750,2025-01-20,Pending,Credit Card
+1751,590,2025-03-10,Delivered,Net Banking
+1752,327,2025-01-27,Cancelled,Credit Card
+1753,592,2024-10-16,Delivered,Net Banking
+1754,613,2025-04-25,Pending,UPI
+1755,792,2024-08-11,Returned,Credit Card
+1756,689,2025-05-25,Delivered,UPI
+1757,839,2024-09-26,Returned,UPI
+1758,329,2025-06-21,Cancelled,Net Banking
+1759,243,2024-11-25,Cancelled,UPI
+1760,310,2025-01-30,Pending,UPI
+1761,898,2025-04-04,Returned,Net Banking
+1762,147,2024-11-01,Delivered,Cash on Delivery
+1763,677,2024-09-03,Delivered,Net Banking
+1764,534,2025-01-24,Cancelled,UPI
+1765,227,2025-03-08,Returned,Net Banking
+1766,424,2024-09-12,Returned,UPI
+1767,308,2024-07-02,Cancelled,Credit Card
+1768,282,2025-03-20,Delivered,Cash on Delivery
+1769,63,2024-12-10,Cancelled,Credit Card
+1770,571,2024-07-27,Returned,Credit Card
+1771,972,2024-11-01,Delivered,Cash on Delivery
+1772,606,2025-03-05,Cancelled,Credit Card
+1773,901,2024-09-30,Returned,Credit Card
+1774,753,2024-12-30,Returned,UPI
+1775,934,2024-07-05,Pending,Cash on Delivery
+1776,180,2024-08-04,Pending,Net Banking
+1777,642,2024-08-16,Cancelled,UPI
+1778,696,2025-06-23,Delivered,Cash on Delivery
+1779,438,2025-04-14,Delivered,Credit Card
+1780,570,2025-04-06,Pending,Credit Card
+1781,508,2024-10-05,Returned,UPI
+1782,49,2024-08-31,Pending,UPI
+1783,996,2025-03-09,Cancelled,Cash on Delivery
+1784,353,2024-10-18,Pending,UPI
+1785,965,2025-03-14,Delivered,UPI
+1786,659,2024-10-04,Cancelled,Cash on Delivery
+1787,688,2024-12-05,Delivered,UPI
+1788,391,2024-08-28,Cancelled,Cash on Delivery
+1789,805,2025-06-13,Returned,UPI
+1790,538,2024-12-09,Pending,UPI
+1791,327,2024-09-14,Delivered,UPI
+1792,714,2025-04-06,Cancelled,Credit Card
+1793,427,2024-08-29,Pending,UPI
+1794,419,2024-11-14,Delivered,Cash on Delivery
+1795,153,2024-08-03,Returned,Credit Card
+1796,308,2025-04-20,Cancelled,Credit Card
+1797,386,2025-06-23,Delivered,UPI
+1798,189,2024-10-17,Delivered,Net Banking
+1799,773,2024-10-25,Returned,Credit Card
+1800,551,2025-01-23,Cancelled,Cash on Delivery
+1801,485,2025-03-22,Pending,UPI
+1802,247,2025-01-26,Delivered,Cash on Delivery
+1803,870,2025-03-02,Cancelled,Net Banking
+1804,231,2024-07-23,Cancelled,UPI
+1805,308,2024-07-26,Returned,Cash on Delivery
+1806,879,2024-08-26,Delivered,Cash on Delivery
+1807,725,2025-06-01,Pending,UPI
+1808,148,2024-08-13,Delivered,Net Banking
+1809,826,2025-05-24,Delivered,Credit Card
+1810,475,2025-06-25,Pending,Credit Card
+1811,937,2024-06-28,Cancelled,UPI
+1812,60,2024-09-28,Delivered,UPI
+1813,576,2024-07-22,Cancelled,UPI
+1814,423,2025-04-25,Returned,UPI
+1815,992,2025-04-22,Cancelled,Net Banking
+1816,427,2025-05-01,Pending,Cash on Delivery
+1817,571,2025-04-17,Pending,Cash on Delivery
+1818,543,2024-10-09,Returned,Net Banking
+1819,138,2024-09-04,Cancelled,UPI
+1820,398,2024-08-10,Delivered,Credit Card
+1821,249,2025-04-20,Returned,UPI
+1822,262,2024-12-19,Pending,Cash on Delivery
+1823,209,2024-11-05,Cancelled,UPI
+1824,339,2024-08-13,Pending,Cash on Delivery
+1825,663,2025-01-07,Delivered,UPI
+1826,81,2025-04-20,Returned,Credit Card
+1827,945,2025-05-17,Returned,Cash on Delivery
+1828,461,2025-04-25,Pending,UPI
+1829,868,2025-01-20,Returned,Net Banking
+1830,380,2024-12-24,Cancelled,UPI
+1831,95,2025-01-11,Cancelled,Credit Card
+1832,549,2024-08-13,Pending,Net Banking
+1833,742,2024-12-30,Pending,Credit Card
+1834,850,2025-03-13,Returned,UPI
+1835,196,2025-02-20,Pending,Net Banking
+1836,53,2024-10-13,Cancelled,Cash on Delivery
+1837,275,2025-04-28,Delivered,Net Banking
+1838,387,2024-07-29,Cancelled,Net Banking
+1839,690,2024-11-12,Returned,UPI
+1840,620,2025-04-29,Pending,Cash on Delivery
+1841,618,2024-08-01,Pending,Cash on Delivery
+1842,41,2024-11-11,Pending,Net Banking
+1843,895,2024-09-03,Returned,Net Banking
+1844,75,2024-11-24,Delivered,Net Banking
+1845,193,2025-05-06,Returned,Cash on Delivery
+1846,824,2024-09-08,Cancelled,Net Banking
+1847,780,2025-01-24,Delivered,Credit Card
+1848,602,2024-10-02,Pending,UPI
+1849,742,2025-04-04,Cancelled,UPI
+1850,688,2024-07-04,Pending,UPI
+1851,573,2025-06-15,Delivered,Net Banking
+1852,223,2025-06-16,Returned,UPI
+1853,491,2025-02-22,Cancelled,Net Banking
+1854,214,2025-05-05,Returned,UPI
+1855,891,2025-05-01,Cancelled,Cash on Delivery
+1856,929,2025-04-20,Pending,Net Banking
+1857,341,2024-07-30,Pending,Net Banking
+1858,311,2024-07-21,Returned,UPI
+1859,980,2024-08-29,Pending,Cash on Delivery
+1860,931,2024-08-22,Delivered,Cash on Delivery
+1861,16,2024-11-06,Delivered,Credit Card
+1862,217,2024-08-28,Delivered,UPI
+1863,960,2025-01-15,Delivered,Credit Card
+1864,195,2025-05-09,Cancelled,Cash on Delivery
+1865,986,2025-03-21,Cancelled,Net Banking
+1866,760,2025-01-20,Delivered,Cash on Delivery
+1867,121,2024-09-10,Cancelled,UPI
+1868,765,2024-12-29,Delivered,Credit Card
+1869,773,2025-06-21,Returned,Net Banking
+1870,491,2025-04-17,Cancelled,Cash on Delivery
+1871,937,2025-02-27,Delivered,Net Banking
+1872,249,2024-11-10,Delivered,Net Banking
+1873,713,2024-07-08,Returned,Net Banking
+1874,619,2024-11-06,Returned,Net Banking
+1875,721,2025-05-24,Pending,Net Banking
+1876,210,2024-11-25,Delivered,Cash on Delivery
+1877,407,2025-04-30,Pending,Net Banking
+1878,938,2025-04-16,Cancelled,Cash on Delivery
+1879,246,2024-12-11,Delivered,Cash on Delivery
+1880,566,2024-08-06,Delivered,Net Banking
+1881,330,2025-05-06,Cancelled,Credit Card
+1882,795,2025-01-12,Returned,UPI
+1883,290,2025-04-24,Delivered,Net Banking
+1884,390,2025-05-08,Returned,UPI
+1885,478,2024-11-30,Delivered,Cash on Delivery
+1886,547,2024-09-17,Pending,Credit Card
+1887,665,2024-08-31,Returned,Cash on Delivery
+1888,368,2024-09-08,Pending,Credit Card
+1889,316,2025-02-23,Delivered,Cash on Delivery
+1890,268,2025-03-01,Pending,Credit Card
+1891,369,2024-12-31,Delivered,Cash on Delivery
+1892,526,2025-04-23,Delivered,UPI
+1893,904,2025-02-09,Pending,Credit Card
+1894,510,2025-04-13,Delivered,Credit Card
+1895,478,2025-03-24,Cancelled,Credit Card
+1896,101,2024-07-22,Delivered,Cash on Delivery
+1897,823,2025-04-12,Delivered,Credit Card
+1898,740,2024-09-23,Cancelled,UPI
+1899,481,2025-05-17,Returned,Cash on Delivery
+1900,780,2025-03-09,Cancelled,UPI
+1901,860,2025-06-24,Cancelled,Cash on Delivery
+1902,328,2025-06-16,Cancelled,Cash on Delivery
+1903,937,2025-04-26,Cancelled,Cash on Delivery
+1904,209,2025-01-04,Returned,Cash on Delivery
+1905,380,2025-01-29,Delivered,UPI
+1906,321,2025-04-22,Pending,UPI
+1907,424,2024-12-21,Returned,Cash on Delivery
+1908,47,2024-11-24,Returned,Credit Card
+1909,577,2024-10-30,Delivered,Cash on Delivery
+1910,885,2025-03-03,Cancelled,Cash on Delivery
+1911,227,2024-11-17,Cancelled,Cash on Delivery
+1912,760,2024-09-12,Returned,Net Banking
+1913,150,2025-06-11,Pending,Net Banking
+1914,17,2024-07-13,Cancelled,Credit Card
+1915,268,2024-07-11,Returned,Net Banking
+1916,567,2024-12-19,Pending,UPI
+1917,958,2024-09-08,Pending,Net Banking
+1918,599,2024-06-28,Pending,UPI
+1919,594,2025-02-03,Pending,UPI
+1920,738,2024-11-12,Returned,UPI
+1921,428,2024-07-03,Returned,Net Banking
+1922,303,2025-03-12,Pending,UPI
+1923,157,2025-06-24,Cancelled,Net Banking
+1924,201,2024-11-18,Cancelled,Net Banking
+1925,338,2025-03-05,Returned,Cash on Delivery
+1926,236,2024-11-05,Pending,Credit Card
+1927,389,2024-12-05,Pending,Cash on Delivery
+1928,584,2025-04-14,Returned,UPI
+1929,854,2025-05-18,Returned,Net Banking
+1930,252,2024-06-29,Returned,Net Banking
+1931,512,2024-10-27,Delivered,UPI
+1932,564,2025-05-27,Delivered,Net Banking
+1933,671,2024-12-23,Pending,Net Banking
+1934,967,2024-07-30,Delivered,Credit Card
+1935,702,2024-08-18,Cancelled,Cash on Delivery
+1936,346,2025-05-20,Pending,UPI
+1937,264,2024-08-03,Delivered,UPI
+1938,782,2025-02-12,Pending,Cash on Delivery
+1939,842,2025-01-15,Cancelled,Credit Card
+1940,501,2025-01-31,Cancelled,Net Banking
+1941,990,2025-04-20,Pending,Cash on Delivery
+1942,741,2024-08-11,Delivered,Cash on Delivery
+1943,658,2025-02-12,Pending,UPI
+1944,758,2024-08-18,Cancelled,Net Banking
+1945,503,2024-12-27,Delivered,Net Banking
+1946,472,2025-01-04,Delivered,Net Banking
+1947,173,2025-01-27,Returned,Cash on Delivery
+1948,751,2025-01-27,Pending,Cash on Delivery
+1949,815,2025-04-04,Cancelled,Credit Card
+1950,361,2025-04-18,Cancelled,Credit Card
+1951,174,2024-11-06,Pending,UPI
+1952,144,2024-08-12,Pending,UPI
+1953,738,2025-02-24,Cancelled,Cash on Delivery
+1954,560,2025-05-07,Cancelled,Net Banking
+1955,501,2024-07-09,Pending,Net Banking
+1956,189,2025-04-28,Pending,UPI
+1957,939,2025-05-17,Delivered,Net Banking
+1958,911,2025-03-01,Returned,Credit Card
+1959,556,2024-10-28,Cancelled,Net Banking
+1960,658,2024-09-30,Delivered,UPI
+1961,981,2024-10-26,Pending,Net Banking
+1962,61,2025-01-21,Returned,Credit Card
+1963,537,2025-05-12,Cancelled,Cash on Delivery
+1964,35,2024-12-09,Returned,Net Banking
+1965,860,2024-10-18,Delivered,Cash on Delivery
+1966,868,2024-07-12,Pending,Credit Card
+1967,77,2025-05-26,Delivered,UPI
+1968,968,2024-08-07,Returned,Credit Card
+1969,838,2024-07-18,Delivered,UPI
+1970,685,2025-06-26,Delivered,Credit Card
+1971,50,2024-10-21,Pending,Net Banking
+1972,783,2025-03-12,Pending,Credit Card
+1973,7,2024-08-19,Returned,UPI
+1974,423,2025-03-24,Returned,UPI
+1975,141,2024-10-05,Delivered,Credit Card
+1976,863,2025-05-09,Cancelled,Net Banking
+1977,646,2024-11-21,Delivered,Cash on Delivery
+1978,237,2024-08-25,Returned,UPI
+1979,70,2024-10-14,Delivered,UPI
+1980,725,2024-11-06,Pending,Cash on Delivery
+1981,155,2025-05-23,Delivered,Credit Card
+1982,10,2024-12-04,Pending,Net Banking
+1983,224,2024-07-25,Cancelled,Credit Card
+1984,518,2025-01-19,Pending,Cash on Delivery
+1985,467,2024-11-15,Cancelled,Credit Card
+1986,383,2024-07-26,Cancelled,UPI
+1987,62,2025-01-06,Delivered,Cash on Delivery
+1988,633,2024-10-24,Returned,Net Banking
+1989,654,2025-04-09,Returned,Net Banking
+1990,683,2024-10-21,Delivered,UPI
+1991,957,2024-12-02,Cancelled,Credit Card
+1992,632,2024-07-05,Returned,UPI
+1993,935,2024-07-07,Pending,Net Banking
+1994,495,2024-10-15,Returned,Net Banking
+1995,676,2024-11-01,Cancelled,Credit Card
+1996,500,2024-09-06,Cancelled,Net Banking
+1997,17,2025-03-30,Pending,UPI
+1998,7,2024-08-02,Delivered,UPI
+1999,545,2025-05-30,Returned,UPI
+2000,565,2024-08-19,Delivered,Cash on Delivery
+2001,422,2025-06-23,Returned,Net Banking
+2002,13,2025-01-16,Pending,Net Banking
+2003,18,2025-02-16,Delivered,UPI
+2004,543,2025-02-14,Returned,Cash on Delivery
+2005,740,2025-05-23,Returned,UPI
+2006,282,2024-08-04,Cancelled,Net Banking
+2007,549,2024-11-14,Cancelled,Cash on Delivery
+2008,294,2024-08-10,Returned,UPI
+2009,18,2024-08-02,Cancelled,Credit Card
+2010,515,2024-10-07,Returned,UPI
+2011,833,2025-04-21,Returned,Net Banking
+2012,715,2024-11-03,Cancelled,Credit Card
+2013,691,2024-10-28,Cancelled,Net Banking
+2014,441,2025-06-07,Cancelled,UPI
+2015,826,2024-08-14,Delivered,Cash on Delivery
+2016,963,2024-09-05,Pending,Net Banking
+2017,932,2025-02-05,Returned,Net Banking
+2018,184,2024-09-17,Pending,Net Banking
+2019,110,2025-02-08,Delivered,Credit Card
+2020,941,2025-05-03,Delivered,Credit Card
+2021,99,2024-07-27,Returned,Cash on Delivery
+2022,537,2024-09-24,Returned,Net Banking
+2023,153,2024-07-16,Pending,Cash on Delivery
+2024,247,2024-10-12,Pending,Cash on Delivery
+2025,197,2024-10-25,Cancelled,Net Banking
+2026,635,2025-05-19,Pending,UPI
+2027,540,2025-04-18,Pending,Net Banking
+2028,259,2025-01-26,Delivered,UPI
+2029,835,2025-04-16,Pending,UPI
+2030,363,2025-01-23,Cancelled,Net Banking
+2031,274,2025-06-16,Pending,Net Banking
+2032,815,2025-05-26,Returned,Net Banking
+2033,407,2024-07-27,Cancelled,UPI
+2034,81,2025-05-08,Returned,Credit Card
+2035,383,2025-03-30,Delivered,Net Banking
+2036,983,2025-01-26,Cancelled,Credit Card
+2037,416,2025-06-25,Cancelled,UPI
+2038,471,2025-02-06,Pending,UPI
+2039,579,2025-05-30,Cancelled,Cash on Delivery
+2040,250,2025-03-22,Delivered,Cash on Delivery
+2041,714,2025-01-25,Delivered,Credit Card
+2042,232,2024-10-20,Delivered,UPI
+2043,308,2025-06-13,Cancelled,Net Banking
+2044,701,2025-01-27,Cancelled,Net Banking
+2045,848,2025-03-09,Pending,Credit Card
+2046,869,2024-10-20,Delivered,Cash on Delivery
+2047,83,2024-08-05,Pending,Credit Card
+2048,670,2025-06-09,Delivered,Credit Card
+2049,879,2024-11-30,Pending,Cash on Delivery
+2050,666,2025-04-15,Returned,Net Banking
+2051,778,2025-06-23,Returned,Net Banking
+2052,33,2024-07-12,Delivered,UPI
+2053,96,2024-10-26,Pending,Cash on Delivery
+2054,416,2025-06-18,Cancelled,UPI
+2055,389,2025-06-02,Cancelled,Credit Card
+2056,387,2024-12-07,Cancelled,Net Banking
+2057,566,2024-08-02,Pending,Credit Card
+2058,488,2025-03-09,Returned,Credit Card
+2059,58,2024-11-03,Cancelled,Net Banking
+2060,653,2024-10-09,Delivered,Net Banking
+2061,10,2025-04-10,Returned,Cash on Delivery
+2062,720,2024-07-17,Delivered,Net Banking
+2063,176,2024-08-19,Pending,UPI
+2064,85,2024-07-23,Cancelled,Net Banking
+2065,512,2024-08-02,Delivered,Credit Card
+2066,866,2025-02-10,Pending,Credit Card
+2067,445,2024-06-28,Cancelled,Cash on Delivery
+2068,661,2024-08-07,Pending,Credit Card
+2069,804,2025-06-08,Delivered,UPI
+2070,340,2024-12-29,Returned,Cash on Delivery
+2071,580,2024-07-13,Delivered,Net Banking
+2072,879,2024-12-26,Delivered,Net Banking
+2073,998,2025-05-07,Returned,Net Banking
+2074,98,2024-11-14,Pending,Credit Card
+2075,917,2024-12-01,Pending,Credit Card
+2076,541,2025-01-23,Delivered,UPI
+2077,942,2024-08-07,Delivered,Net Banking
+2078,44,2024-10-07,Pending,UPI
+2079,236,2024-08-27,Returned,Net Banking
+2080,217,2025-02-11,Cancelled,Cash on Delivery
+2081,923,2025-06-26,Returned,UPI
+2082,889,2025-01-30,Delivered,UPI
+2083,709,2025-06-09,Pending,Credit Card
+2084,909,2025-05-01,Returned,Credit Card
+2085,581,2024-10-01,Delivered,UPI
+2086,487,2024-07-28,Cancelled,Cash on Delivery
+2087,278,2024-11-03,Cancelled,Credit Card
+2088,48,2024-08-31,Returned,Net Banking
+2089,947,2024-09-06,Delivered,UPI
+2090,77,2025-03-05,Delivered,Credit Card
+2091,701,2025-06-18,Cancelled,Credit Card
+2092,948,2025-02-02,Pending,Cash on Delivery
+2093,288,2025-03-26,Pending,UPI
+2094,921,2025-05-29,Returned,Net Banking
+2095,557,2024-08-06,Returned,Cash on Delivery
+2096,578,2025-02-26,Cancelled,UPI
+2097,674,2025-05-08,Delivered,UPI
+2098,34,2024-07-03,Pending,Credit Card
+2099,184,2024-12-26,Pending,UPI
+2100,952,2024-09-19,Pending,Net Banking
+2101,871,2025-04-06,Pending,Credit Card
+2102,323,2025-03-29,Cancelled,Credit Card
+2103,17,2024-08-15,Pending,Net Banking
+2104,985,2024-08-31,Delivered,Cash on Delivery
+2105,213,2025-04-09,Pending,Net Banking
+2106,602,2025-05-12,Returned,Credit Card
+2107,148,2025-05-28,Delivered,Credit Card
+2108,771,2025-03-19,Pending,Credit Card
+2109,841,2025-01-10,Cancelled,Net Banking
+2110,730,2024-09-27,Cancelled,UPI
+2111,841,2024-12-02,Pending,UPI
+2112,408,2024-06-29,Returned,Cash on Delivery
+2113,952,2025-03-18,Cancelled,UPI
+2114,79,2025-01-16,Delivered,UPI
+2115,307,2025-06-01,Returned,Credit Card
+2116,167,2024-10-11,Cancelled,Credit Card
+2117,578,2025-02-05,Returned,Net Banking
+2118,247,2025-05-01,Cancelled,Credit Card
+2119,581,2025-04-06,Cancelled,Credit Card
+2120,855,2025-04-24,Returned,Cash on Delivery
+2121,870,2025-05-19,Pending,UPI
+2122,399,2024-09-07,Pending,Credit Card
+2123,694,2025-01-04,Returned,UPI
+2124,919,2025-01-25,Cancelled,Credit Card
+2125,554,2024-09-27,Cancelled,UPI
+2126,340,2024-07-20,Cancelled,UPI
+2127,394,2024-12-10,Cancelled,Credit Card
+2128,774,2024-09-16,Cancelled,Net Banking
+2129,758,2025-02-20,Pending,Credit Card
+2130,144,2025-03-12,Cancelled,Cash on Delivery
+2131,810,2024-11-24,Returned,Cash on Delivery
+2132,706,2024-09-09,Cancelled,UPI
+2133,742,2025-05-13,Cancelled,UPI
+2134,81,2025-01-17,Pending,Net Banking
+2135,513,2024-10-18,Delivered,Net Banking
+2136,764,2024-11-07,Delivered,Credit Card
+2137,998,2024-08-18,Cancelled,UPI
+2138,355,2024-12-01,Pending,UPI
+2139,55,2025-02-11,Cancelled,Credit Card
+2140,101,2024-12-03,Delivered,Cash on Delivery
+2141,448,2025-06-15,Pending,Cash on Delivery
+2142,238,2025-02-06,Returned,UPI
+2143,859,2024-10-16,Returned,Credit Card
+2144,78,2024-10-09,Pending,Net Banking
+2145,349,2024-10-01,Returned,Cash on Delivery
+2146,620,2025-02-21,Pending,Credit Card
+2147,788,2025-05-25,Cancelled,Net Banking
+2148,629,2025-06-07,Cancelled,UPI
+2149,978,2024-08-14,Delivered,Net Banking
+2150,610,2025-03-28,Cancelled,UPI
+2151,407,2024-12-07,Cancelled,Credit Card
+2152,993,2024-10-04,Delivered,Cash on Delivery
+2153,793,2025-03-05,Pending,Cash on Delivery
+2154,335,2025-02-17,Cancelled,Credit Card
+2155,31,2025-01-06,Cancelled,Credit Card
+2156,650,2024-06-27,Cancelled,UPI
+2157,280,2024-08-10,Delivered,Net Banking
+2158,803,2024-12-01,Pending,Cash on Delivery
+2159,462,2025-02-11,Delivered,Net Banking
+2160,503,2024-09-09,Returned,Credit Card
+2161,234,2025-04-13,Cancelled,UPI
+2162,365,2024-10-03,Returned,Cash on Delivery
+2163,567,2025-03-22,Pending,Credit Card
+2164,964,2024-08-15,Cancelled,Cash on Delivery
+2165,385,2025-02-05,Returned,Net Banking
+2166,443,2024-09-06,Returned,UPI
+2167,191,2025-05-09,Returned,Cash on Delivery
+2168,697,2025-03-02,Cancelled,UPI
+2169,600,2025-02-07,Cancelled,Cash on Delivery
+2170,677,2024-08-12,Cancelled,Net Banking
+2171,390,2025-03-14,Cancelled,Credit Card
+2172,88,2024-10-01,Delivered,Cash on Delivery
+2173,791,2024-08-17,Returned,Credit Card
+2174,634,2025-03-30,Delivered,Net Banking
+2175,303,2024-07-12,Pending,Net Banking
+2176,818,2024-09-24,Returned,UPI
+2177,253,2024-10-02,Cancelled,Credit Card
+2178,731,2025-04-12,Cancelled,UPI
+2179,76,2024-07-15,Cancelled,Credit Card
+2180,85,2025-04-06,Delivered,Credit Card
+2181,275,2024-07-25,Cancelled,Cash on Delivery
+2182,158,2025-03-19,Returned,UPI
+2183,390,2024-11-27,Returned,Net Banking
+2184,729,2024-08-17,Pending,UPI
+2185,803,2024-09-19,Returned,Credit Card
+2186,650,2024-10-12,Cancelled,Credit Card
+2187,158,2024-08-09,Returned,UPI
+2188,758,2025-02-05,Returned,Cash on Delivery
+2189,399,2024-06-28,Delivered,Net Banking
+2190,325,2025-03-07,Returned,Cash on Delivery
+2191,370,2024-09-16,Pending,UPI
+2192,110,2025-04-01,Returned,UPI
+2193,94,2024-08-09,Delivered,Net Banking
+2194,6,2025-05-15,Delivered,UPI
+2195,966,2025-03-24,Returned,Credit Card
+2196,316,2024-07-02,Returned,UPI
+2197,456,2024-12-04,Delivered,Net Banking
+2198,369,2024-08-07,Cancelled,Cash on Delivery
+2199,780,2024-11-06,Returned,UPI
+2200,277,2024-09-15,Delivered,Cash on Delivery
+2201,105,2024-12-17,Returned,Cash on Delivery
+2202,136,2024-08-22,Delivered,Credit Card
+2203,90,2024-08-23,Cancelled,Net Banking
+2204,192,2025-04-04,Pending,Cash on Delivery
+2205,442,2025-03-05,Returned,Credit Card
+2206,460,2025-04-28,Returned,UPI
+2207,571,2024-08-13,Pending,Cash on Delivery
+2208,569,2025-05-30,Pending,Cash on Delivery
+2209,525,2024-11-17,Returned,UPI
+2210,418,2024-10-31,Cancelled,UPI
+2211,106,2024-12-03,Returned,Credit Card
+2212,27,2024-11-21,Pending,UPI
+2213,92,2025-03-10,Delivered,UPI
+2214,363,2025-01-14,Cancelled,Net Banking
+2215,568,2025-03-18,Returned,Cash on Delivery
+2216,96,2024-10-11,Returned,UPI
+2217,612,2024-12-16,Delivered,Net Banking
+2218,613,2025-03-11,Delivered,Credit Card
+2219,804,2024-09-13,Cancelled,Credit Card
+2220,333,2025-05-26,Cancelled,Net Banking
+2221,885,2025-02-28,Returned,Credit Card
+2222,395,2024-08-22,Returned,UPI
+2223,13,2024-09-15,Pending,Credit Card
+2224,299,2024-11-25,Returned,UPI
+2225,424,2024-11-11,Delivered,UPI
+2226,398,2024-09-08,Cancelled,UPI
+2227,798,2025-05-30,Returned,Credit Card
+2228,87,2025-03-12,Cancelled,UPI
+2229,743,2025-05-26,Returned,UPI
+2230,923,2025-03-11,Delivered,UPI
+2231,573,2024-09-29,Pending,Credit Card
+2232,927,2025-01-03,Pending,Net Banking
+2233,249,2025-01-02,Cancelled,Net Banking
+2234,586,2024-10-11,Delivered,Cash on Delivery
+2235,534,2024-12-13,Delivered,UPI
+2236,174,2024-07-16,Delivered,UPI
+2237,702,2024-10-02,Returned,UPI
+2238,390,2024-06-28,Pending,Net Banking
+2239,174,2024-12-12,Delivered,UPI
+2240,143,2024-12-24,Returned,UPI
+2241,276,2024-08-27,Cancelled,Cash on Delivery
+2242,309,2024-07-20,Returned,Cash on Delivery
+2243,275,2025-04-26,Returned,Net Banking
+2244,505,2025-06-07,Delivered,UPI
+2245,150,2025-05-16,Cancelled,Cash on Delivery
+2246,65,2024-07-20,Pending,Net Banking
+2247,172,2025-04-13,Cancelled,Credit Card
+2248,446,2024-12-22,Cancelled,Cash on Delivery
+2249,283,2025-01-16,Cancelled,Net Banking
+2250,432,2024-10-17,Cancelled,Net Banking
+2251,307,2024-09-14,Delivered,UPI
+2252,496,2024-12-04,Returned,Net Banking
+2253,802,2024-08-08,Pending,Net Banking
+2254,79,2025-06-04,Pending,Net Banking
+2255,370,2024-10-16,Returned,Net Banking
+2256,258,2024-08-20,Pending,UPI
+2257,967,2024-10-15,Cancelled,Net Banking
+2258,253,2024-10-13,Delivered,Credit Card
+2259,739,2024-09-03,Cancelled,Net Banking
+2260,641,2024-12-09,Cancelled,Net Banking
+2261,508,2025-04-21,Delivered,Credit Card
+2262,609,2024-07-02,Pending,Cash on Delivery
+2263,632,2024-12-27,Delivered,UPI
+2264,201,2025-04-28,Returned,UPI
+2265,469,2025-04-19,Returned,Cash on Delivery
+2266,110,2025-01-18,Returned,Net Banking
+2267,139,2024-07-22,Delivered,Net Banking
+2268,312,2025-02-09,Returned,Cash on Delivery
+2269,7,2024-12-20,Cancelled,Net Banking
+2270,972,2024-11-09,Cancelled,Cash on Delivery
+2271,406,2024-10-22,Returned,Net Banking
+2272,341,2025-03-04,Returned,Net Banking
+2273,862,2024-09-22,Returned,Credit Card
+2274,636,2024-12-18,Returned,Cash on Delivery
+2275,390,2024-09-13,Delivered,UPI
+2276,824,2025-03-21,Delivered,Net Banking
+2277,883,2025-05-28,Cancelled,UPI
+2278,338,2024-10-12,Pending,UPI
+2279,451,2025-05-19,Cancelled,UPI
+2280,343,2024-12-29,Delivered,Credit Card
+2281,441,2024-11-25,Cancelled,Credit Card
+2282,836,2024-10-09,Cancelled,Cash on Delivery
+2283,844,2024-08-28,Delivered,Net Banking
+2284,881,2024-12-30,Pending,Net Banking
+2285,667,2024-09-20,Delivered,Net Banking
+2286,998,2024-12-14,Cancelled,Net Banking
+2287,609,2025-06-13,Delivered,Cash on Delivery
+2288,140,2024-08-17,Pending,Net Banking
+2289,308,2024-07-03,Pending,Net Banking
+2290,329,2025-04-26,Delivered,Cash on Delivery
+2291,618,2024-09-26,Delivered,Credit Card
+2292,971,2025-03-04,Delivered,Net Banking
+2293,712,2025-01-01,Returned,Credit Card
+2294,206,2024-11-23,Cancelled,Credit Card
+2295,491,2024-09-20,Cancelled,Net Banking
+2296,322,2025-01-27,Pending,UPI
+2297,182,2025-01-10,Cancelled,UPI
+2298,988,2025-03-03,Returned,Net Banking
+2299,408,2025-06-24,Pending,Cash on Delivery
+2300,992,2024-08-22,Delivered,Cash on Delivery
+2301,327,2024-08-08,Delivered,Net Banking
+2302,299,2024-10-08,Pending,Cash on Delivery
+2303,753,2025-04-03,Pending,Credit Card
+2304,712,2024-11-18,Pending,Net Banking
+2305,649,2025-01-15,Returned,Net Banking
+2306,503,2024-10-03,Delivered,UPI
+2307,991,2025-03-21,Returned,UPI
+2308,590,2024-08-04,Delivered,Net Banking
+2309,801,2024-10-10,Pending,Credit Card
+2310,249,2025-05-27,Returned,Cash on Delivery
+2311,334,2025-03-09,Cancelled,Credit Card
+2312,386,2025-01-13,Delivered,UPI
+2313,288,2025-05-03,Pending,Cash on Delivery
+2314,837,2024-10-25,Pending,Net Banking
+2315,805,2025-04-12,Returned,UPI
+2316,403,2024-11-30,Cancelled,Cash on Delivery
+2317,374,2024-07-04,Cancelled,UPI
+2318,117,2024-07-21,Delivered,UPI
+2319,955,2025-02-02,Delivered,Credit Card
+2320,578,2025-06-05,Delivered,Credit Card
+2321,205,2024-08-07,Returned,Credit Card
+2322,607,2024-09-28,Pending,Net Banking
+2323,559,2025-06-11,Returned,Net Banking
+2324,185,2024-10-14,Pending,Credit Card
+2325,699,2024-10-02,Pending,UPI
+2326,787,2025-05-07,Pending,Net Banking
+2327,564,2024-09-29,Cancelled,UPI
+2328,28,2025-04-17,Returned,Net Banking
+2329,976,2025-03-13,Returned,Cash on Delivery
+2330,745,2025-06-23,Returned,Cash on Delivery
+2331,473,2025-01-28,Cancelled,Net Banking
+2332,966,2025-05-25,Cancelled,Cash on Delivery
+2333,726,2025-02-20,Pending,Net Banking
+2334,215,2025-02-05,Cancelled,Credit Card
+2335,449,2025-05-03,Delivered,Credit Card
+2336,817,2025-06-21,Delivered,Cash on Delivery
+2337,299,2025-01-18,Delivered,UPI
+2338,852,2025-06-20,Returned,Cash on Delivery
+2339,710,2024-09-06,Delivered,UPI
+2340,71,2025-02-25,Cancelled,Net Banking
+2341,839,2025-01-06,Returned,Cash on Delivery
+2342,869,2025-01-18,Returned,Credit Card
+2343,815,2024-06-28,Delivered,UPI
+2344,815,2024-08-23,Pending,Net Banking
+2345,419,2024-07-04,Pending,Credit Card
+2346,690,2024-11-01,Cancelled,Credit Card
+2347,512,2025-04-21,Delivered,Credit Card
+2348,143,2025-03-21,Cancelled,Net Banking
+2349,649,2025-04-21,Pending,Net Banking
+2350,311,2025-01-28,Pending,Cash on Delivery
+2351,248,2024-12-07,Delivered,Net Banking
+2352,259,2025-02-02,Pending,UPI
+2353,675,2024-11-06,Pending,UPI
+2354,158,2024-06-27,Pending,Cash on Delivery
+2355,733,2024-12-30,Delivered,UPI
+2356,434,2024-09-10,Delivered,UPI
+2357,809,2024-09-07,Pending,UPI
+2358,387,2024-08-08,Pending,Net Banking
+2359,76,2025-04-07,Returned,UPI
+2360,460,2024-10-23,Delivered,Credit Card
+2361,613,2025-04-02,Cancelled,Net Banking
+2362,491,2025-04-19,Cancelled,UPI
+2363,597,2024-12-08,Pending,UPI
+2364,411,2024-10-02,Pending,UPI
+2365,548,2025-03-24,Returned,Credit Card
+2366,519,2025-05-05,Returned,UPI
+2367,946,2024-10-10,Delivered,UPI
+2368,943,2025-02-09,Cancelled,Cash on Delivery
+2369,891,2024-09-12,Returned,Net Banking
+2370,709,2025-02-26,Cancelled,Net Banking
+2371,429,2024-11-30,Returned,Credit Card
+2372,557,2025-03-14,Pending,UPI
+2373,38,2025-05-19,Returned,Credit Card
+2374,810,2025-02-15,Returned,Cash on Delivery
+2375,992,2025-02-01,Delivered,Credit Card
+2376,369,2025-02-01,Pending,Net Banking
+2377,719,2024-11-12,Pending,Credit Card
+2378,917,2024-08-03,Delivered,Cash on Delivery
+2379,832,2024-11-21,Cancelled,Credit Card
+2380,550,2024-12-27,Pending,Cash on Delivery
+2381,609,2025-02-24,Pending,Credit Card
+2382,654,2024-09-11,Delivered,UPI
+2383,937,2025-06-07,Cancelled,Net Banking
+2384,88,2024-09-30,Pending,Net Banking
+2385,112,2024-10-31,Delivered,Credit Card
+2386,788,2024-07-14,Pending,Credit Card
+2387,255,2025-05-26,Returned,Credit Card
+2388,674,2024-11-04,Cancelled,Cash on Delivery
+2389,681,2024-11-12,Returned,Credit Card
+2390,364,2024-12-27,Cancelled,Credit Card
+2391,171,2025-04-17,Delivered,Credit Card
+2392,663,2024-09-28,Pending,UPI
+2393,628,2025-01-19,Pending,Credit Card
+2394,46,2024-11-03,Delivered,Net Banking
+2395,577,2025-01-04,Pending,Cash on Delivery
+2396,661,2024-09-23,Returned,Net Banking
+2397,694,2024-12-11,Delivered,Net Banking
+2398,663,2025-01-31,Returned,Cash on Delivery
+2399,410,2024-07-03,Cancelled,Net Banking
+2400,991,2025-03-21,Pending,Cash on Delivery
+2401,771,2024-07-26,Returned,Cash on Delivery
+2402,340,2024-08-06,Pending,Cash on Delivery
+2403,989,2025-02-01,Cancelled,Cash on Delivery
+2404,816,2025-06-09,Pending,UPI
+2405,441,2024-08-19,Cancelled,Cash on Delivery
+2406,109,2024-09-24,Delivered,Net Banking
+2407,11,2024-12-03,Pending,Net Banking
+2408,101,2025-05-29,Delivered,Credit Card
+2409,265,2024-07-14,Cancelled,Cash on Delivery
+2410,228,2024-09-14,Delivered,Cash on Delivery
+2411,523,2024-12-25,Returned,Credit Card
+2412,765,2024-12-04,Delivered,Credit Card
+2413,532,2025-01-20,Returned,Net Banking
+2414,572,2025-04-09,Cancelled,Net Banking
+2415,595,2024-07-25,Cancelled,UPI
+2416,705,2024-08-05,Pending,Credit Card
+2417,590,2025-03-18,Returned,Credit Card
+2418,227,2025-01-26,Pending,Cash on Delivery
+2419,457,2024-12-15,Pending,UPI
+2420,384,2025-04-02,Cancelled,Cash on Delivery
+2421,401,2024-08-18,Delivered,Net Banking
+2422,475,2024-09-20,Cancelled,Net Banking
+2423,791,2025-04-09,Cancelled,Net Banking
+2424,696,2024-09-18,Delivered,UPI
+2425,603,2024-09-19,Returned,Credit Card
+2426,708,2024-11-18,Returned,Cash on Delivery
+2427,513,2024-08-03,Delivered,Credit Card
+2428,155,2024-07-11,Delivered,Cash on Delivery
+2429,354,2024-10-04,Pending,Credit Card
+2430,26,2024-07-01,Delivered,Cash on Delivery
+2431,495,2025-06-18,Delivered,Net Banking
+2432,108,2025-02-10,Pending,UPI
+2433,303,2024-12-02,Returned,Net Banking
+2434,426,2024-08-12,Delivered,Net Banking
+2435,943,2024-10-13,Delivered,Credit Card
+2436,985,2025-03-03,Pending,Cash on Delivery
+2437,88,2025-02-10,Delivered,Net Banking
+2438,119,2025-06-07,Pending,Net Banking
+2439,852,2024-12-18,Cancelled,Credit Card
+2440,964,2025-06-08,Pending,Net Banking
+2441,748,2024-09-16,Cancelled,Cash on Delivery
+2442,146,2024-08-02,Cancelled,UPI
+2443,357,2024-11-06,Pending,UPI
+2444,320,2025-06-20,Pending,Credit Card
+2445,352,2024-09-26,Pending,UPI
+2446,467,2025-02-19,Returned,Net Banking
+2447,804,2024-08-12,Delivered,Credit Card
+2448,212,2024-08-02,Pending,Cash on Delivery
+2449,534,2025-05-05,Cancelled,Net Banking
+2450,495,2024-10-02,Cancelled,UPI
+2451,357,2025-04-30,Pending,Net Banking
+2452,488,2025-02-14,Delivered,Credit Card
+2453,100,2025-01-21,Delivered,Net Banking
+2454,449,2025-04-12,Delivered,UPI
+2455,740,2025-02-26,Cancelled,UPI
+2456,714,2025-06-26,Pending,UPI
+2457,464,2025-04-18,Pending,UPI
+2458,327,2024-09-28,Pending,Credit Card
+2459,69,2024-07-14,Cancelled,Credit Card
+2460,308,2024-12-28,Pending,Net Banking
+2461,46,2025-03-21,Cancelled,Credit Card
+2462,830,2024-10-12,Cancelled,UPI
+2463,728,2025-01-23,Delivered,Cash on Delivery
+2464,118,2024-08-30,Pending,Net Banking
+2465,24,2025-03-09,Pending,Cash on Delivery
+2466,870,2025-04-17,Returned,UPI
+2467,352,2025-03-24,Delivered,Cash on Delivery
+2468,664,2025-04-05,Cancelled,Net Banking
+2469,112,2024-06-29,Delivered,Credit Card
+2470,694,2025-06-21,Returned,UPI
+2471,820,2025-05-20,Delivered,Net Banking
+2472,169,2025-01-03,Delivered,Credit Card
+2473,953,2025-05-10,Returned,Cash on Delivery
+2474,759,2024-09-19,Delivered,UPI
+2475,250,2025-05-02,Delivered,Credit Card
+2476,529,2024-12-03,Returned,Cash on Delivery
+2477,179,2025-06-06,Returned,Net Banking
+2478,566,2024-11-02,Cancelled,Net Banking
+2479,164,2024-08-04,Returned,Net Banking
+2480,339,2024-07-31,Pending,UPI
+2481,574,2025-01-08,Pending,UPI
+2482,437,2025-02-08,Pending,Cash on Delivery
+2483,982,2024-09-24,Cancelled,Credit Card
+2484,474,2025-06-21,Delivered,Cash on Delivery
+2485,238,2025-02-05,Returned,Credit Card
+2486,817,2024-10-12,Cancelled,Credit Card
+2487,415,2024-06-27,Delivered,Credit Card
+2488,645,2024-12-09,Returned,Cash on Delivery
+2489,189,2025-03-24,Delivered,UPI
+2490,191,2024-11-09,Returned,Credit Card
+2491,656,2025-06-24,Pending,Cash on Delivery
+2492,674,2024-11-12,Returned,UPI
+2493,443,2025-04-15,Returned,Cash on Delivery
+2494,406,2024-12-19,Cancelled,Net Banking
+2495,30,2025-01-29,Cancelled,Credit Card
+2496,756,2025-03-24,Cancelled,Cash on Delivery
+2497,629,2024-08-29,Pending,Credit Card
+2498,905,2024-07-07,Pending,UPI
+2499,203,2025-04-09,Returned,Net Banking
+2500,461,2024-08-03,Cancelled,Net Banking
+2501,607,2025-02-25,Pending,Cash on Delivery
+2502,440,2025-02-04,Pending,Cash on Delivery
+2503,399,2024-07-05,Returned,UPI
+2504,5,2025-03-13,Returned,UPI
+2505,722,2024-10-11,Delivered,Credit Card
+2506,220,2024-09-09,Delivered,Net Banking
+2507,211,2024-09-01,Returned,Credit Card
+2508,286,2025-05-12,Delivered,Net Banking
+2509,771,2024-08-26,Pending,Cash on Delivery
+2510,721,2024-09-25,Returned,UPI
+2511,829,2025-04-09,Returned,Cash on Delivery
+2512,816,2024-07-14,Cancelled,UPI
+2513,65,2025-04-07,Pending,Net Banking
+2514,592,2024-09-04,Pending,Net Banking
+2515,105,2024-09-11,Cancelled,UPI
+2516,819,2025-05-14,Delivered,Cash on Delivery
+2517,893,2024-09-16,Returned,UPI
+2518,550,2024-09-11,Delivered,Credit Card
+2519,192,2024-08-17,Pending,Cash on Delivery
+2520,375,2024-10-19,Delivered,Cash on Delivery
+2521,334,2024-12-22,Pending,Credit Card
+2522,202,2024-07-20,Returned,Cash on Delivery
+2523,469,2025-03-10,Returned,Net Banking
+2524,117,2024-12-18,Returned,UPI
+2525,269,2024-09-22,Cancelled,Net Banking
+2526,687,2025-02-22,Cancelled,Cash on Delivery
+2527,884,2024-08-18,Cancelled,Net Banking
+2528,502,2024-07-09,Returned,Credit Card
+2529,541,2024-08-11,Returned,Cash on Delivery
+2530,990,2025-04-04,Delivered,UPI
+2531,655,2025-06-16,Pending,UPI
+2532,321,2025-04-04,Cancelled,UPI
+2533,612,2024-09-14,Returned,Credit Card
+2534,398,2024-11-16,Returned,UPI
+2535,626,2025-02-25,Pending,Net Banking
+2536,402,2025-04-16,Cancelled,Net Banking
+2537,602,2025-06-03,Cancelled,Cash on Delivery
+2538,117,2025-04-18,Delivered,UPI
+2539,357,2024-10-21,Returned,Credit Card
+2540,361,2025-05-17,Delivered,Net Banking
+2541,866,2025-03-20,Returned,Cash on Delivery
+2542,469,2024-12-11,Pending,Net Banking
+2543,633,2024-08-25,Delivered,Net Banking
+2544,177,2025-03-21,Returned,Cash on Delivery
+2545,834,2024-07-21,Cancelled,Net Banking
+2546,690,2025-05-16,Pending,Net Banking
+2547,723,2025-06-11,Returned,Credit Card
+2548,820,2024-08-27,Delivered,Cash on Delivery
+2549,305,2024-12-27,Delivered,Cash on Delivery
+2550,941,2024-11-20,Returned,UPI
+2551,630,2024-06-29,Pending,Net Banking
+2552,605,2024-09-01,Returned,Credit Card
+2553,87,2024-11-19,Delivered,UPI
+2554,689,2024-07-10,Delivered,Cash on Delivery
+2555,138,2025-01-20,Cancelled,Credit Card
+2556,321,2024-09-03,Cancelled,Cash on Delivery
+2557,121,2025-03-19,Delivered,Net Banking
+2558,245,2025-05-20,Cancelled,UPI
+2559,313,2025-06-08,Cancelled,UPI
+2560,120,2024-12-07,Returned,Net Banking
+2561,188,2024-08-08,Pending,Net Banking
+2562,383,2024-07-29,Returned,Cash on Delivery
+2563,711,2025-04-19,Returned,UPI
+2564,145,2024-08-27,Cancelled,UPI
+2565,524,2024-09-17,Cancelled,UPI
+2566,398,2024-07-25,Pending,UPI
+2567,429,2024-08-25,Pending,Credit Card
+2568,611,2024-12-05,Pending,Cash on Delivery
+2569,142,2024-08-08,Returned,Credit Card
+2570,589,2024-12-12,Pending,UPI
+2571,393,2024-09-24,Delivered,Net Banking
+2572,434,2025-03-25,Delivered,Net Banking
+2573,191,2025-05-08,Returned,UPI
+2574,499,2024-08-30,Cancelled,Credit Card
+2575,651,2024-10-08,Pending,Credit Card
+2576,551,2025-03-31,Delivered,Cash on Delivery
+2577,711,2025-01-15,Pending,Net Banking
+2578,942,2025-03-31,Delivered,UPI
+2579,661,2025-01-28,Delivered,Credit Card
+2580,954,2025-06-05,Pending,Credit Card
+2581,178,2025-03-16,Delivered,Cash on Delivery
+2582,569,2025-01-19,Pending,Net Banking
+2583,171,2025-06-11,Delivered,UPI
+2584,502,2025-06-23,Cancelled,Net Banking
+2585,296,2025-02-11,Returned,UPI
+2586,144,2025-06-11,Returned,Credit Card
+2587,192,2025-06-18,Pending,Credit Card
+2588,323,2025-02-09,Returned,UPI
+2589,863,2024-11-02,Returned,Net Banking
+2590,462,2025-06-06,Returned,Net Banking
+2591,635,2024-12-19,Returned,Cash on Delivery
+2592,55,2024-08-27,Cancelled,UPI
+2593,887,2025-05-14,Cancelled,Net Banking
+2594,368,2025-02-12,Returned,Credit Card
+2595,975,2025-01-19,Cancelled,Net Banking
+2596,10,2025-03-10,Cancelled,Net Banking
+2597,497,2025-02-02,Returned,Cash on Delivery
+2598,140,2024-09-18,Pending,Net Banking
+2599,200,2024-12-18,Returned,Cash on Delivery
+2600,835,2024-12-09,Cancelled,Credit Card
+2601,394,2024-09-01,Pending,Credit Card
+2602,987,2025-02-19,Cancelled,Credit Card
+2603,576,2025-05-17,Cancelled,Credit Card
+2604,518,2025-05-01,Delivered,Credit Card
+2605,669,2024-12-16,Delivered,Net Banking
+2606,507,2024-10-13,Delivered,UPI
+2607,419,2024-10-27,Cancelled,Credit Card
+2608,702,2024-10-06,Returned,Net Banking
+2609,504,2025-02-17,Returned,Cash on Delivery
+2610,426,2024-09-18,Cancelled,Credit Card
+2611,728,2025-06-21,Delivered,UPI
+2612,861,2025-04-07,Cancelled,Net Banking
+2613,455,2025-05-03,Returned,Net Banking
+2614,501,2025-04-22,Returned,Net Banking
+2615,172,2025-05-17,Returned,Cash on Delivery
+2616,85,2024-07-04,Cancelled,UPI
+2617,579,2024-09-11,Returned,Credit Card
+2618,32,2024-12-01,Returned,Cash on Delivery
+2619,815,2024-10-19,Returned,Credit Card
+2620,780,2024-11-19,Returned,UPI
+2621,226,2025-04-23,Pending,Net Banking
+2622,300,2025-01-20,Cancelled,Credit Card
+2623,34,2024-12-24,Cancelled,Net Banking
+2624,282,2025-06-22,Returned,Net Banking
+2625,231,2024-08-01,Delivered,Credit Card
+2626,551,2025-06-01,Returned,Credit Card
+2627,296,2025-02-07,Cancelled,UPI
+2628,173,2024-08-10,Pending,Credit Card
+2629,800,2025-05-02,Returned,UPI
+2630,469,2025-03-23,Pending,UPI
+2631,580,2024-08-15,Delivered,Credit Card
+2632,761,2025-06-11,Delivered,Net Banking
+2633,792,2024-07-17,Returned,Cash on Delivery
+2634,785,2024-09-24,Pending,Credit Card
+2635,508,2025-04-09,Delivered,Credit Card
+2636,563,2025-03-25,Returned,UPI
+2637,524,2025-01-20,Delivered,UPI
+2638,116,2025-05-25,Cancelled,UPI
+2639,587,2024-08-09,Pending,Credit Card
+2640,117,2025-01-30,Returned,Cash on Delivery
+2641,275,2024-12-30,Delivered,Credit Card
+2642,794,2024-11-27,Delivered,Credit Card
+2643,557,2025-06-15,Cancelled,Credit Card
+2644,844,2025-03-06,Returned,Cash on Delivery
+2645,376,2025-02-07,Delivered,Cash on Delivery
+2646,556,2025-03-30,Pending,UPI
+2647,843,2025-04-09,Delivered,Net Banking
+2648,775,2025-05-10,Pending,Credit Card
+2649,43,2024-08-18,Delivered,UPI
+2650,779,2024-07-17,Returned,Cash on Delivery
+2651,737,2025-01-14,Returned,Credit Card
+2652,452,2024-09-04,Returned,Cash on Delivery
+2653,560,2025-01-22,Pending,Net Banking
+2654,224,2025-06-02,Returned,UPI
+2655,436,2024-09-25,Pending,Net Banking
+2656,105,2025-05-03,Pending,Cash on Delivery
+2657,754,2024-08-15,Pending,Cash on Delivery
+2658,850,2024-09-28,Cancelled,UPI
+2659,670,2025-06-14,Delivered,Credit Card
+2660,770,2024-07-16,Pending,Credit Card
+2661,254,2025-01-10,Pending,UPI
+2662,305,2025-05-26,Delivered,Credit Card
+2663,896,2025-02-17,Returned,UPI
+2664,34,2025-01-24,Cancelled,UPI
+2665,461,2025-06-05,Delivered,Cash on Delivery
+2666,270,2024-07-25,Pending,UPI
+2667,357,2024-09-28,Delivered,UPI
+2668,883,2025-01-22,Pending,UPI
+2669,837,2025-01-27,Returned,Cash on Delivery
+2670,90,2024-07-29,Delivered,Cash on Delivery
+2671,450,2024-11-05,Cancelled,UPI
+2672,887,2025-01-16,Delivered,Net Banking
+2673,121,2025-01-21,Pending,Credit Card
+2674,795,2024-08-02,Pending,Cash on Delivery
+2675,832,2024-10-05,Cancelled,Cash on Delivery
+2676,243,2024-10-06,Pending,Net Banking
+2677,215,2024-11-02,Pending,UPI
+2678,831,2025-01-26,Pending,Net Banking
+2679,756,2024-08-18,Delivered,Net Banking
+2680,603,2025-05-14,Delivered,Credit Card
+2681,706,2024-09-04,Cancelled,Cash on Delivery
+2682,360,2024-07-14,Cancelled,Net Banking
+2683,882,2024-12-10,Returned,UPI
+2684,728,2025-01-03,Pending,UPI
+2685,625,2025-05-23,Cancelled,Credit Card
+2686,648,2025-05-18,Pending,Cash on Delivery
+2687,439,2024-09-14,Cancelled,UPI
+2688,170,2024-08-20,Returned,Cash on Delivery
+2689,631,2025-05-04,Cancelled,UPI
+2690,143,2025-04-29,Delivered,Net Banking
+2691,804,2024-09-20,Pending,UPI
+2692,212,2025-03-25,Delivered,Cash on Delivery
+2693,834,2025-03-01,Cancelled,Net Banking
+2694,212,2024-07-31,Cancelled,Net Banking
+2695,825,2025-01-14,Returned,Credit Card
+2696,61,2024-08-23,Returned,UPI
+2697,584,2025-02-24,Returned,Credit Card
+2698,360,2024-12-15,Cancelled,Cash on Delivery
+2699,546,2024-07-24,Returned,Credit Card
+2700,288,2024-12-07,Cancelled,Credit Card
+2701,612,2025-04-02,Cancelled,Net Banking
+2702,552,2025-02-28,Pending,Credit Card
+2703,173,2025-01-25,Delivered,Cash on Delivery
+2704,332,2024-07-28,Pending,Credit Card
+2705,721,2025-04-09,Delivered,Cash on Delivery
+2706,300,2025-04-18,Delivered,Cash on Delivery
+2707,297,2024-10-29,Cancelled,Cash on Delivery
+2708,587,2024-12-22,Returned,UPI
+2709,274,2024-08-29,Returned,UPI
+2710,976,2025-03-18,Returned,Cash on Delivery
+2711,879,2024-10-12,Pending,Credit Card
+2712,527,2025-05-22,Returned,Credit Card
+2713,922,2024-11-05,Cancelled,Net Banking
+2714,696,2024-07-08,Returned,UPI
+2715,835,2024-07-09,Returned,Net Banking
+2716,98,2025-04-20,Returned,Credit Card
+2717,139,2024-07-01,Pending,Credit Card
+2718,986,2025-04-25,Cancelled,UPI
+2719,769,2024-07-07,Returned,Cash on Delivery
+2720,805,2025-04-24,Delivered,Net Banking
+2721,422,2025-03-12,Pending,Credit Card
+2722,941,2025-03-22,Returned,Cash on Delivery
+2723,61,2024-07-06,Returned,Cash on Delivery
+2724,284,2025-05-28,Pending,Cash on Delivery
+2725,888,2025-05-07,Delivered,Credit Card
+2726,672,2025-04-03,Delivered,Credit Card
+2727,130,2024-07-08,Pending,UPI
+2728,719,2024-07-29,Returned,Cash on Delivery
+2729,887,2024-10-30,Pending,Net Banking
+2730,136,2024-08-30,Pending,UPI
+2731,256,2025-04-17,Pending,Cash on Delivery
+2732,150,2025-04-11,Pending,Net Banking
+2733,729,2025-05-06,Delivered,Net Banking
+2734,330,2025-03-01,Pending,UPI
+2735,849,2025-02-09,Returned,Cash on Delivery
+2736,254,2024-07-28,Returned,Credit Card
+2737,780,2024-07-29,Cancelled,UPI
+2738,864,2025-03-21,Cancelled,UPI
+2739,693,2024-09-08,Pending,UPI
+2740,403,2024-12-30,Cancelled,Net Banking
+2741,502,2025-05-05,Pending,Cash on Delivery
+2742,146,2024-08-04,Delivered,Credit Card
+2743,592,2024-12-14,Delivered,Cash on Delivery
+2744,648,2025-04-27,Delivered,UPI
+2745,276,2025-06-09,Delivered,Net Banking
+2746,643,2025-01-22,Returned,Net Banking
+2747,425,2025-03-05,Delivered,UPI
+2748,385,2024-11-18,Delivered,Net Banking
+2749,463,2024-07-19,Returned,Cash on Delivery
+2750,78,2025-04-28,Pending,Net Banking
+2751,649,2025-02-26,Cancelled,Cash on Delivery
+2752,814,2025-04-13,Pending,Cash on Delivery
+2753,902,2025-02-16,Pending,Net Banking
+2754,788,2024-07-07,Cancelled,UPI
+2755,96,2025-04-02,Delivered,Cash on Delivery
+2756,413,2024-08-24,Delivered,Credit Card
+2757,528,2024-11-11,Delivered,Cash on Delivery
+2758,768,2024-10-26,Delivered,Net Banking
+2759,285,2024-11-21,Cancelled,Cash on Delivery
+2760,712,2025-03-15,Delivered,Credit Card
+2761,959,2024-08-10,Delivered,Credit Card
+2762,899,2025-05-01,Delivered,Credit Card
+2763,378,2025-06-17,Cancelled,UPI
+2764,466,2025-01-08,Returned,Credit Card
+2765,974,2025-03-04,Cancelled,UPI
+2766,500,2024-10-17,Delivered,Credit Card
+2767,336,2025-04-15,Cancelled,Credit Card
+2768,596,2024-10-18,Pending,Cash on Delivery
+2769,3,2024-10-06,Pending,Net Banking
+2770,890,2024-08-27,Returned,Credit Card
+2771,793,2024-07-30,Delivered,Net Banking
+2772,868,2025-01-24,Returned,UPI
+2773,751,2025-05-08,Pending,Net Banking
+2774,96,2024-08-23,Returned,Net Banking
+2775,749,2025-02-15,Pending,Credit Card
+2776,996,2025-03-13,Pending,Net Banking
+2777,470,2025-02-05,Cancelled,Credit Card
+2778,651,2025-01-22,Delivered,UPI
+2779,681,2024-12-29,Pending,Credit Card
+2780,715,2024-10-16,Delivered,Net Banking
+2781,367,2025-01-03,Returned,Cash on Delivery
+2782,871,2025-01-15,Returned,UPI
+2783,65,2025-06-15,Pending,Credit Card
+2784,815,2025-04-21,Delivered,Net Banking
+2785,548,2024-07-26,Pending,UPI
+2786,408,2024-08-24,Pending,UPI
+2787,224,2024-09-03,Cancelled,UPI
+2788,992,2025-05-13,Returned,Credit Card
+2789,440,2025-04-19,Delivered,Cash on Delivery
+2790,845,2024-10-17,Returned,UPI
+2791,217,2025-01-07,Cancelled,Cash on Delivery
+2792,507,2025-02-23,Returned,Credit Card
+2793,275,2025-04-29,Cancelled,Net Banking
+2794,331,2024-07-13,Returned,Net Banking
+2795,849,2024-10-26,Delivered,Net Banking
+2796,291,2024-11-21,Cancelled,UPI
+2797,346,2024-12-26,Returned,Cash on Delivery
+2798,561,2024-07-12,Cancelled,Credit Card
+2799,592,2025-01-09,Delivered,Cash on Delivery
+2800,134,2024-12-12,Returned,UPI
+2801,580,2024-12-25,Pending,Credit Card
+2802,873,2024-07-07,Delivered,Cash on Delivery
+2803,497,2024-07-14,Delivered,Cash on Delivery
+2804,808,2025-02-14,Delivered,Net Banking
+2805,352,2024-07-15,Delivered,Cash on Delivery
+2806,916,2024-06-28,Pending,Cash on Delivery
+2807,699,2025-03-11,Returned,UPI
+2808,781,2024-10-06,Delivered,Credit Card
+2809,50,2025-06-06,Returned,Net Banking
+2810,48,2024-09-30,Cancelled,UPI
+2811,102,2024-11-20,Delivered,Cash on Delivery
+2812,642,2024-11-08,Delivered,Credit Card
+2813,803,2025-03-01,Returned,Net Banking
+2814,857,2024-11-06,Pending,Net Banking
+2815,471,2024-07-31,Cancelled,Credit Card
+2816,17,2024-11-14,Pending,Cash on Delivery
+2817,128,2025-04-04,Returned,Credit Card
+2818,952,2025-01-13,Delivered,Net Banking
+2819,879,2024-10-11,Returned,Cash on Delivery
+2820,162,2025-01-18,Returned,Cash on Delivery
+2821,452,2024-08-24,Returned,Cash on Delivery
+2822,468,2024-12-01,Returned,Credit Card
+2823,1,2024-11-20,Delivered,Credit Card
+2824,982,2025-01-31,Cancelled,Cash on Delivery
+2825,439,2024-08-13,Delivered,UPI
+2826,208,2024-09-26,Returned,Net Banking
+2827,706,2024-12-04,Returned,Cash on Delivery
+2828,932,2024-08-23,Delivered,Credit Card
+2829,136,2025-05-02,Pending,Credit Card
+2830,904,2024-10-09,Pending,Net Banking
+2831,666,2025-01-11,Pending,Net Banking
+2832,310,2024-09-23,Returned,UPI
+2833,163,2024-10-29,Delivered,Credit Card
+2834,896,2024-11-17,Delivered,UPI
+2835,956,2025-03-10,Pending,Net Banking
+2836,898,2024-07-16,Pending,Credit Card
+2837,281,2024-11-16,Delivered,Net Banking
+2838,96,2024-10-25,Returned,Credit Card
+2839,671,2025-05-12,Pending,UPI
+2840,370,2024-09-01,Cancelled,Cash on Delivery
+2841,257,2025-04-27,Cancelled,UPI
+2842,85,2025-02-06,Delivered,Net Banking
+2843,381,2024-11-19,Returned,Net Banking
+2844,681,2025-04-06,Cancelled,Cash on Delivery
+2845,926,2024-07-13,Pending,Cash on Delivery
+2846,665,2025-01-27,Returned,Cash on Delivery
+2847,170,2025-03-31,Delivered,Net Banking
+2848,54,2024-07-12,Pending,UPI
+2849,406,2025-02-24,Returned,Cash on Delivery
+2850,641,2024-12-26,Delivered,Credit Card
+2851,313,2024-07-17,Returned,Net Banking
+2852,744,2024-12-01,Cancelled,Net Banking
+2853,717,2024-09-15,Cancelled,UPI
+2854,774,2024-09-28,Delivered,UPI
+2855,240,2024-12-03,Cancelled,Cash on Delivery
+2856,440,2025-02-15,Delivered,Net Banking
+2857,672,2025-05-25,Cancelled,Credit Card
+2858,94,2025-02-20,Returned,Cash on Delivery
+2859,721,2025-01-29,Returned,UPI
+2860,98,2024-12-22,Delivered,Credit Card
+2861,2,2025-02-22,Pending,UPI
+2862,219,2024-11-11,Returned,Cash on Delivery
+2863,489,2025-04-28,Returned,Credit Card
+2864,80,2024-07-03,Delivered,UPI
+2865,136,2025-04-22,Delivered,Net Banking
+2866,608,2025-02-24,Pending,Net Banking
+2867,232,2025-04-25,Delivered,Cash on Delivery
+2868,532,2025-03-01,Pending,Credit Card
+2869,697,2025-06-26,Delivered,UPI
+2870,456,2025-05-25,Returned,UPI
+2871,10,2025-06-21,Delivered,Net Banking
+2872,9,2025-01-17,Cancelled,Cash on Delivery
+2873,713,2024-09-06,Returned,Credit Card
+2874,352,2024-08-14,Cancelled,Net Banking
+2875,837,2024-07-22,Cancelled,Net Banking
+2876,124,2024-07-20,Delivered,Net Banking
+2877,881,2024-10-09,Delivered,UPI
+2878,433,2025-05-04,Cancelled,Cash on Delivery
+2879,711,2024-07-15,Returned,Net Banking
+2880,136,2025-06-22,Delivered,Net Banking
+2881,490,2024-08-13,Returned,UPI
+2882,73,2025-05-29,Delivered,Credit Card
+2883,235,2024-11-26,Cancelled,Credit Card
+2884,393,2024-10-03,Cancelled,Credit Card
+2885,92,2025-05-17,Delivered,UPI
+2886,749,2025-01-18,Cancelled,UPI
+2887,826,2024-08-14,Delivered,Cash on Delivery
+2888,105,2025-06-07,Pending,Credit Card
+2889,106,2025-01-28,Delivered,UPI
+2890,321,2025-06-17,Returned,Credit Card
+2891,377,2025-01-18,Cancelled,Cash on Delivery
+2892,903,2025-04-09,Delivered,Net Banking
+2893,307,2024-06-28,Delivered,Credit Card
+2894,141,2024-10-06,Delivered,Net Banking
+2895,392,2025-02-24,Returned,Net Banking
+2896,793,2025-04-07,Cancelled,Cash on Delivery
+2897,833,2024-10-05,Delivered,Cash on Delivery
+2898,772,2025-05-25,Cancelled,Net Banking
+2899,896,2025-03-04,Returned,Credit Card
+2900,137,2024-09-03,Pending,Net Banking
+2901,657,2025-01-25,Returned,UPI
+2902,694,2024-12-27,Pending,UPI
+2903,147,2025-01-06,Delivered,UPI
+2904,71,2025-06-03,Cancelled,UPI
+2905,544,2025-06-23,Pending,Cash on Delivery
+2906,577,2024-10-01,Cancelled,Credit Card
+2907,9,2025-01-13,Delivered,Cash on Delivery
+2908,625,2024-09-10,Cancelled,UPI
+2909,666,2024-11-20,Pending,Net Banking
+2910,169,2025-04-01,Delivered,UPI
+2911,451,2025-04-19,Delivered,Net Banking
+2912,360,2024-09-07,Pending,Credit Card
+2913,740,2025-01-18,Cancelled,UPI
+2914,219,2025-03-05,Returned,UPI
+2915,644,2024-07-21,Cancelled,UPI
+2916,767,2024-11-29,Pending,UPI
+2917,156,2024-10-09,Cancelled,Credit Card
+2918,942,2024-09-29,Returned,UPI
+2919,422,2024-08-26,Cancelled,Net Banking
+2920,631,2025-03-15,Delivered,Credit Card
+2921,704,2024-07-22,Cancelled,Cash on Delivery
+2922,454,2024-08-20,Delivered,UPI
+2923,881,2025-03-24,Returned,UPI
+2924,223,2024-11-29,Cancelled,Net Banking
+2925,89,2025-02-22,Delivered,Credit Card
+2926,919,2025-03-17,Returned,UPI
+2927,103,2024-10-19,Delivered,Credit Card
+2928,144,2025-04-04,Delivered,Credit Card
+2929,771,2024-09-01,Delivered,Net Banking
+2930,127,2025-01-15,Cancelled,Net Banking
+2931,604,2025-02-03,Delivered,Cash on Delivery
+2932,748,2025-03-04,Pending,UPI
+2933,394,2025-03-14,Returned,UPI
+2934,360,2025-03-13,Returned,Cash on Delivery
+2935,987,2025-04-06,Cancelled,Net Banking
+2936,440,2024-10-24,Cancelled,Net Banking
+2937,323,2024-12-02,Cancelled,Credit Card
+2938,811,2024-10-20,Pending,Net Banking
+2939,144,2024-08-27,Returned,Credit Card
+2940,254,2024-07-05,Returned,Cash on Delivery
+2941,284,2024-09-29,Cancelled,Credit Card
+2942,661,2025-06-03,Cancelled,Cash on Delivery
+2943,87,2024-12-07,Delivered,Cash on Delivery
+2944,255,2025-04-16,Cancelled,Cash on Delivery
+2945,567,2025-04-01,Returned,Cash on Delivery
+2946,616,2024-08-16,Delivered,Net Banking
+2947,615,2024-11-17,Pending,UPI
+2948,739,2025-04-03,Pending,Cash on Delivery
+2949,623,2025-04-04,Returned,Credit Card
+2950,292,2025-05-21,Delivered,UPI
+2951,798,2025-01-18,Cancelled,Credit Card
+2952,964,2024-12-11,Cancelled,Credit Card
+2953,708,2024-09-18,Delivered,Credit Card
+2954,28,2024-08-06,Delivered,Cash on Delivery
+2955,869,2024-10-25,Pending,UPI
+2956,868,2025-04-25,Cancelled,Cash on Delivery
+2957,675,2024-10-02,Returned,Net Banking
+2958,897,2024-07-28,Cancelled,Cash on Delivery
+2959,309,2024-12-23,Pending,Credit Card
+2960,211,2025-06-01,Delivered,Net Banking
+2961,531,2024-07-12,Cancelled,UPI
+2962,622,2025-05-12,Delivered,Cash on Delivery
+2963,522,2024-11-25,Cancelled,Net Banking
+2964,194,2024-10-18,Returned,Cash on Delivery
+2965,766,2025-02-27,Returned,Cash on Delivery
+2966,402,2024-11-25,Cancelled,Cash on Delivery
+2967,303,2024-08-26,Cancelled,Credit Card
+2968,662,2024-11-11,Delivered,Credit Card
+2969,56,2025-04-14,Delivered,Credit Card
+2970,803,2024-11-19,Pending,UPI
+2971,920,2025-04-17,Pending,Cash on Delivery
+2972,813,2024-10-17,Cancelled,Cash on Delivery
+2973,978,2025-05-29,Returned,Cash on Delivery
+2974,246,2025-06-01,Pending,Cash on Delivery
+2975,507,2024-07-13,Pending,UPI
+2976,396,2024-09-07,Returned,Cash on Delivery
+2977,116,2024-11-30,Delivered,UPI
+2978,247,2025-04-29,Delivered,Net Banking
+2979,512,2024-09-23,Delivered,Credit Card
+2980,654,2025-04-03,Cancelled,Credit Card
+2981,609,2025-03-16,Cancelled,UPI
+2982,73,2024-11-17,Delivered,Credit Card
+2983,541,2024-11-06,Returned,Credit Card
+2984,911,2025-01-24,Delivered,UPI
+2985,13,2025-03-19,Delivered,UPI
+2986,370,2024-09-07,Cancelled,Net Banking
+2987,957,2024-10-19,Returned,Credit Card
+2988,325,2024-09-09,Pending,Credit Card
+2989,136,2025-05-29,Returned,Cash on Delivery
+2990,397,2025-06-15,Cancelled,Cash on Delivery
+2991,882,2025-04-06,Pending,Net Banking
+2992,860,2024-07-06,Cancelled,UPI
+2993,583,2025-03-13,Delivered,UPI
+2994,431,2024-07-29,Pending,Credit Card
+2995,375,2024-12-26,Cancelled,UPI
+2996,560,2024-11-20,Delivered,UPI
+2997,700,2024-10-24,Cancelled,Net Banking
+2998,177,2024-12-03,Returned,Cash on Delivery
+2999,782,2025-04-30,Cancelled,Cash on Delivery
+3000,483,2024-10-13,Returned,Cash on Delivery
