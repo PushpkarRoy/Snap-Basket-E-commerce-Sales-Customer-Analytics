@@ -19,7 +19,7 @@ Built from scratch, this project is not just a collection of SQL questions — i
 
 ## 🧠 What You'll Learn 
 
-- Advanced **SQL Querying Techniques** (Window Functions, Subqueries, JOINS, Aggregates)
+- Advanced **SQL Querying Techniques** (Window Functions, Subqueries, JOINS, Aggregates)    
 - Building **customer segmentation** and **order funnel analysis**
 - Calculating custom **Product Performance Score**
 - Uncovering **returns, delivery failures**, and **customer churn**
