@@ -17,7 +17,7 @@ Built from scratch, this project is not just a collection of SQL questions — i
   
 ---    
 
-## 🧠 What You'll Learn 
+## 🧠 What You'll Learn   
 
 - Advanced **SQL Querying Techniques** (Window Functions, Subqueries, JOINS, Aggregates)    
 - Building **customer segmentation** and **order funnel analysis**
