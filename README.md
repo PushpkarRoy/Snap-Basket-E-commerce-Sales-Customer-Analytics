@@ -14,7 +14,7 @@
 **Snap Basket** is a simulated e-commerce SQL project that mirrors a real-world online store environment. This project includes **5 relational tables**, over **1,000+ rows**, and delivers **50+ business-focused SQL queries** that uncover insights across sales, customer behavior, product performance, returns, reviews, and more.
 
 Built from scratch, this project is not just a collection of SQL questions — it's a fully structured data analysis workflow reflecting the role of a **Data Analyst in an actual company**.
-         
+             
 ---        
    
 ## 🧠 What You'll Learn         b
