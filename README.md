@@ -24,7 +24,7 @@ Built from scratch, this project is not just a collection of SQL questions — i
 - Calculating custom **Product Performance Score**
 - Uncovering **returns, delivery failures**, and **customer churn**
 - Revenue forecasting, category trends, discount impact, and more
-
+   
 ---
 
 ## 📊 Schema Diagram
