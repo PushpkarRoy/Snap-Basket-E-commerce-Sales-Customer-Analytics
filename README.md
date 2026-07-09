@@ -1,4 +1,4 @@
-<h1 align="center">🛒 Snap Basket – E-Commerce SQL Analytics Project</h1>
+<h1 align="center">🛒 Snap___Basket – E-Commerce SQL Analytics Project</h1>
 <p align="center">
   <b>Data Analyst | SQL Expert | Business Problem Solver</b><br>
   <img src="https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&color=336791" />
