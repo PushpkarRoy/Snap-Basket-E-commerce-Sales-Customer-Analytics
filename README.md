@@ -15,7 +15,7 @@
 
 Built from scratch, this project is not just a collection of SQL questions — it's a fully structured data analysis workflow reflecting the role of a **Data Analyst in an actual company**.
                   
----                
+---                   
            
 ## 🧠 What You'll Learn   
    
